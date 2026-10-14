@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+ESC-50*/
+dataset/
+data/
+runs/
+test_results/
+*.pt
+*.pth
+*.wav
+*.flac
+*.ogg
+*.zip
+predictions.csv
+.DS_Store
