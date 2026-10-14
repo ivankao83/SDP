@@ -7,8 +7,18 @@ mean of per-clip power medians; LeakyReLU slope .01; scheduler factor .1;
 best validation-loss checkpoint. Median/max reference shifts can cancel under
 per-clip min-max scaling. Original training code/weights were not released.
 Notebook frontend produces 161 frames; paper159 is an inferred alternative.
-Requires independently labeled 3-second clips in data/{train,val,test}/
-{gunshot,non_gunshot}. Run with --help for commands. No trained weights included.
+Accepts finite, nonempty recordings of any duration in data/{train,val,test}/
+{gunshot,non_gunshot}. Each positive file must contain at least one gunshot.
+Three-second windows at a one-second hop cover each recording; short inputs are
+right-zero-padded. Max pooling combines window logits into one recording label
+(multiple-instance learning), not one positive label per window. This is an
+adaptation beyond the paper's fixed-clip protocol. Metrics are per recording.
+Longer files have more opportunities for false alarms; evaluate realistic lengths.
+Padding is identical for both classes, but matching their duration distributions
+is still important to avoid duration/padding shortcuts. Split by source/session.
+Features are held in RAM; memory and compute grow with total recording duration.
+Use --batch-size 1 for long files. No automatic trimming or time compression.
+Run with --help for commands. No trained weights included.
 """
 import argparse
 import csv
@@ -45,10 +55,25 @@ def read_clip(path):
     y, _ = librosa.load(path, sr=SR, mono=True)
     if not np.isfinite(y).all() or not len(y):
         raise ValueError(f'Empty or nonfinite audio: {path}')
-    if abs(len(y) - SAMPLES) > 24:
-        raise ValueError(f'{path}: {len(y)/SR:.3f}s; training/evaluation require labeled 3-second clips. '
-                         'Cut and label clips first; do not label every window of a long gunshot recording positive.')
-    return librosa.util.fix_length(y, size=SAMPLES)
+    return y
+
+
+def window_starts(length, hop=SR):
+    if length < 1 or not 1 <= hop <= SAMPLES:
+        raise ValueError('Audio must be nonempty; hop must be between one sample and three seconds.')
+    starts = list(range(0, max(length-SAMPLES+1, 1), hop))
+    if length > SAMPLES and starts[-1] != length-SAMPLES:
+        starts.append(length-SAMPLES)
+    return starts
+
+
+def audio_windows(y, hop=SR):
+    for start in window_starts(len(y), hop):
+        yield start, librosa.util.fix_length(y[start:start+SAMPLES], size=SAMPLES)
+
+
+def recording_features(spectra, cfg):
+    return [features(windows, cfg) for windows in spectra]
 
 
 def load_split(root, split, frontend):
@@ -60,11 +85,11 @@ def load_split(root, split, frontend):
             raise ValueError(f'No WAV/FLAC/OGG files under {folder}')
         for p in files:
             y = read_clip(p)
-            arrays.append(mel(y, frontend))
+            arrays.append(np.stack([mel(window, frontend) for _, window in audio_windows(y)]))
             labels.append(label)
             names.append(str(p.resolve()))
             hashes.append(hashlib.sha256(y.tobytes()).hexdigest())
-    return np.stack(arrays), np.array(labels), names, hashes
+    return arrays, np.array(labels), names, hashes
 
 
 def features(spectra, cfg):
@@ -112,9 +137,26 @@ def device_for(name):
     return torch.device('cuda' if torch.cuda.is_available() else 'cpu') if name == 'auto' else torch.device(name)
 
 
+def collate_recordings(batch):
+    bags, labels = zip(*batch)
+    return list(bags), torch.tensor(labels, dtype=torch.float32)
+
+
 def loader(x, labels, batch, shuffle=False):
-    return DataLoader(TensorDataset(x, torch.tensor(labels, dtype=torch.float32)),
-                      batch_size=batch, shuffle=shuffle, num_workers=0)
+    if isinstance(x, torch.Tensor):  # Also support single-window test callers.
+        return DataLoader(TensorDataset(x, torch.tensor(labels, dtype=torch.float32)),
+                          batch_size=batch, shuffle=shuffle, num_workers=0)
+    return DataLoader(list(zip(x, labels)), batch_size=batch, shuffle=shuffle,
+                      num_workers=0, collate_fn=collate_recordings)
+
+
+def recording_logits(net, bags, device):
+    if isinstance(bags, torch.Tensor):
+        return net(bags.to(device)).flatten()
+    sizes = [len(bag) for bag in bags]
+    # One loss/label per recording. A positive bag needs only one positive window.
+    window_logits = net(torch.cat(bags).to(device)).flatten()
+    return torch.stack([part.max() for part in window_logits.split(sizes)])
 
 
 def run_epoch(net, batches, device, optimizer=None):
@@ -122,8 +164,8 @@ def run_epoch(net, batches, device, optimizer=None):
     total, probabilities, labels = 0., [], []
     with torch.set_grad_enabled(optimizer is not None):
         for x, y in batches:
-            x, y = x.to(device), y.to(device)
-            logits = net(x).flatten()
+            y = y.to(device)
+            logits = recording_logits(net, x, device)
             loss = nn.functional.binary_cross_entropy_with_logits(logits, y)
             if optimizer is not None:
                 optimizer.zero_grad(set_to_none=True)
@@ -160,13 +202,15 @@ def train(a):
     cfg = dict(model=a.model, experiment=a.experiment, bands=a.bands, frontend=a.frontend,
                seed=a.seed, sample_rate=SR, samples=SAMPLES, epochs=a.epochs, batch_size=a.batch_size,
                learning_rate=1e-4, scheduler_patience=10, scheduler_factor=.1,
-               class_to_index=CLASSES, initialization='random', threshold=.5)
+               class_to_index=CLASSES, initialization='random', threshold=.5,
+               window_hop_samples=SR, pooling='max_logit_per_recording', padding='right_zero',
+               metric_unit='recording')
     tr = load_split(a.data, 'train', a.frontend)
     va = load_split(a.data, 'val', a.frontend)
     if set(tr[3]) & set(va[3]):
         raise ValueError('Identical decoded audio occurs in train and val; remove leakage.')
-    cfg['median_reference'] = max(float(np.mean(np.median(tr[0], axis=(1, 2)))), 1e-10)
-    xtr, xva = features(tr[0], cfg), features(va[0], cfg)
+    cfg['median_reference'] = max(float(np.mean([np.median(windows) for windows in tr[0]])), 1e-10)
+    xtr, xva = recording_features(tr[0], cfg), recording_features(va[0], cfg)
     train_batches = loader(xtr, tr[1], a.batch_size, True)
     val_batches = loader(xva, va[1], a.batch_size)
     device = device_for(a.device)
@@ -206,11 +250,13 @@ def evaluate(a):
     data = load_split(a.data, 'test', ckpt['config']['frontend'])
     if set(data[3]) & set(ckpt['seen_hashes']):
         raise ValueError('Test audio duplicates training/validation audio; use an independent test set.')
-    loss, y, p = run_epoch(net, loader(features(data[0], ckpt['config']), data[1], a.batch_size), device)
+    loss, y, p = run_epoch(net, loader(recording_features(data[0], ckpt['config']), data[1], a.batch_size), device)
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
     report = metrics(y, p)
     report['loss'] = loss
+    report['metric_unit'] = 'recording'
+    report['pooling'] = 'max_window_probability'
     write_json(out/'test_metrics.json', report)
     with (out/'test_predictions.csv').open('w', newline='', encoding='utf-8') as f:
         w = csv.writer(f)
@@ -221,22 +267,17 @@ def evaluate(a):
 
 def predict(a):
     net, ckpt, device = restore(a)
-    y, _ = librosa.load(a.audio, sr=SR, mono=True)
-    if not len(y) or not np.isfinite(y).all():
-        raise ValueError('Empty or nonfinite audio.')
-    hop = round(a.hop * SR)
-    if hop < 1 or hop > SAMPLES:
+    y = read_clip(a.audio)
+    if not np.isfinite(a.hop) or not 0 < a.hop <= 3:
         raise ValueError('--hop must be greater than 0 and at most 3 seconds.')
-    starts = list(range(0, max(len(y)-SAMPLES+1, 1), hop))
-    # Include an end-aligned final window, avoiding artificial padding for long recordings.
-    if len(y) > SAMPLES and starts[-1] != len(y)-SAMPLES:
-        starts.append(len(y)-SAMPLES)
+    hop = round(a.hop * SR)
+    if hop < 1:
+        raise ValueError('--hop is smaller than one sample.')
     net.eval()
     with Path(a.output).open('w', newline='', encoding='utf-8') as f, torch.inference_mode():
         w = csv.writer(f)
         w.writerow(['start_s', 'end_s', 'padded', 'gunshot_probability', 'label'])
-        for start in starts:
-            segment = librosa.util.fix_length(y[start:start+SAMPLES], size=SAMPLES)
+        for start, segment in audio_windows(y, hop):
             x = features([mel(segment, ckpt['config']['frontend'])], ckpt['config']).to(device)
             p = net(x).sigmoid().item()
             w.writerow([start/SR, min(start+SAMPLES, len(y))/SR, len(y)<SAMPLES,
@@ -268,7 +309,8 @@ def main():
     for parser in [t, e, r]:
         parser.add_argument('--device', default='auto', help='auto, cpu, cuda, or mps')
     for parser in [t, e]:
-        parser.add_argument('--batch-size', type=int, default=32)
+        parser.add_argument('--batch-size', type=int, default=32,
+                            help='Recordings per batch; reduce for long files (all their windows are processed).')
     a = p.parse_args()
     if getattr(a, 'batch_size', 1) < 1 or getattr(a, 'epochs', 1) < 1:
         p.error('Batch size and epochs must be positive.')
@@ -277,3 +319,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

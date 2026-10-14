@@ -27,13 +27,10 @@ def main():
         sf.write(path, audio, g.SR, subtype='FLOAT')
         assert g.read_clip(path).shape == (g.SAMPLES,)
         sf.write(path, audio[:g.SR], g.SR, subtype='FLOAT')
-        try:
-            g.read_clip(path)
-        except ValueError:
-            pass
-        else:
-            raise AssertionError('Short training clip accepted')
-    print('Audio loading and duration checks: PASS')
+        assert g.read_clip(path).shape == (g.SR,)
+        _, padded = next(g.audio_windows(g.read_clip(path)))
+        assert padded.shape == (g.SAMPLES,)
+    print('Audio loading and short-clip padding: PASS')
     for name in ['vgg16', 'resnet34', 'mobilenet_v2']:
         cfg = dict(model=name, experiment=6)
         net = g.model_for(cfg).eval()
@@ -56,3 +53,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
