@@ -1,13 +1,15 @@
 Positive:
 
-https://cadreforensics.com/audio/
+https://cadreforensics.com/audio/ (train & test)
 
-https://github.com/Stonewall-Defense/C3GD
+https://github.com/Stonewall-Defense/C3GD (train & test)
+
+https://github.com/ShotSpotter/research.accuracy-of-gunshot-location (test only)
 
 Negative: 
 
-https://github.com/karolpiczak/ESC-50
+https://github.com/karolpiczak/ESC-50 (train & test)
 
 Mixed:
 
-https://github.com/kaen2891/military_audio_dataset
+https://github.com/kaen2891/military_audio_dataset (train & test)
