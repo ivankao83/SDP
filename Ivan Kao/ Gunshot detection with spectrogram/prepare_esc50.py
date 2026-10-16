@@ -43,7 +43,9 @@ def prepare(source, output, val_fold=4, test_fold=5):
         filenames.add(name)
         if not row['src_file'].strip():
             raise ValueError(f'Missing source group: {name}')
-        fold = folds_by_source.setdefault(row['src_file'], fold)
+        previous_fold = folds_by_source.setdefault(row['src_file'], fold)
+        if previous_fold != fold:
+            raise ValueError(f'Source {row["src_file"]} spans folds {previous_fold} and {fold}.')
         if 'gun' in row['category'].lower():
             raise ValueError(f'Unexpected potential gunshot class: {row["category"]}')
         if not (source/'audio'/name).is_file():

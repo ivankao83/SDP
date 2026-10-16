@@ -1,0 +1,42 @@
+{
+  "non_gunshot": {
+    "precision": 1.0,
+    "recall": 0.9991379310344828,
+    "f1-score": 0.9995687796463993,
+    "support": 1160.0
+  },
+  "gunshot": {
+    "precision": 0.9980879541108987,
+    "recall": 1.0,
+    "f1-score": 0.999043062200957,
+    "support": 522.0
+  },
+  "accuracy": 0.9994054696789536,
+  "macro avg": {
+    "precision": 0.9990439770554493,
+    "recall": 0.9995689655172414,
+    "f1-score": 0.9993059209236781,
+    "support": 1682.0
+  },
+  "weighted avg": {
+    "precision": 0.99940660644821,
+    "recall": 0.9994054696789536,
+    "f1-score": 0.9994056259564343,
+    "support": 1682.0
+  },
+  "confusion_matrix_rows_true_columns_predicted": [
+    [
+      1159,
+      1
+    ],
+    [
+      0,
+      522
+    ]
+  ],
+  "roc_auc": 0.9999818337957458,
+  "threshold": 0.8099999999999999,
+  "loss": 0.009113441749697238,
+  "metric_unit": "recording",
+  "pooling": "max_window_probability"
+}

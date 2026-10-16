@@ -1,0 +1,19 @@
+{
+  "model": "compact_cnn",
+  "experiment": 2,
+  "bands": 128,
+  "frontend": "notebook",
+  "sample_rate": 24000,
+  "samples": 72000,
+  "median_reference": 1e-10,
+  "threshold": 0.8099999999999999,
+  "seed": 42,
+  "class_to_index": {
+    "non_gunshot": 0,
+    "gunshot": 1
+  },
+  "window_hop_samples": 24000,
+  "pooling": "max_logit_per_recording",
+  "metric_unit": "recording",
+  "initialization": "random"
+}

@@ -116,6 +116,14 @@ def replace_relu(module):
 
 def model_for(cfg):
     name = cfg['model']
+    if name == 'compact_cnn':
+        # Full-spectrum input; early averaging keeps CPU inference inexpensive.
+        return nn.Sequential(
+            nn.AvgPool2d(2),
+            nn.Conv2d(1, 16, 3, padding=1), nn.BatchNorm2d(16), nn.ReLU(), nn.MaxPool2d(2),
+            nn.Conv2d(16, 32, 3, padding=1), nn.BatchNorm2d(32), nn.ReLU(), nn.MaxPool2d(2),
+            nn.Conv2d(32, 64, 3, padding=1), nn.BatchNorm2d(64), nn.ReLU(),
+            nn.AdaptiveMaxPool2d(1), nn.Flatten(), nn.Dropout(.25), nn.Linear(64, 1))
     if name == 'vgg16':
         net = models.vgg16(weights=None)
         net.features[0] = nn.Conv2d(1, 64, 3, padding=1)
@@ -177,13 +185,13 @@ def run_epoch(net, batches, device, optimizer=None):
     return total / len(labels), np.array(labels, dtype=int), np.array(probabilities)
 
 
-def metrics(y, p):
-    pred = (p > .5).astype(int)
+def metrics(y, p, threshold=.5):
+    pred = (p > threshold).astype(int)
     report = classification_report(y, pred, labels=[0, 1], target_names=['non_gunshot', 'gunshot'],
                                    output_dict=True, zero_division=0)
     report['confusion_matrix_rows_true_columns_predicted'] = confusion_matrix(y, pred, labels=[0, 1]).tolist()
     report['roc_auc'] = float(roc_auc_score(y, p)) if len(set(y)) == 2 else None
-    report['threshold'] = .5
+    report['threshold'] = threshold
     return report
 
 
@@ -253,7 +261,8 @@ def evaluate(a):
     loss, y, p = run_epoch(net, loader(recording_features(data[0], ckpt['config']), data[1], a.batch_size), device)
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
-    report = metrics(y, p)
+    threshold = ckpt['config'].get('threshold', .5)
+    report = metrics(y, p, threshold)
     report['loss'] = loss
     report['metric_unit'] = 'recording'
     report['pooling'] = 'max_window_probability'
@@ -261,7 +270,7 @@ def evaluate(a):
     with (out/'test_predictions.csv').open('w', newline='', encoding='utf-8') as f:
         w = csv.writer(f)
         w.writerow(['path', 'true_label', 'gunshot_probability', 'predicted_label'])
-        w.writerows(zip(data[2], y, p, (p > .5).astype(int)))
+        w.writerows(zip(data[2], y, p, (p > threshold).astype(int)))
     print(json.dumps(report, indent=2))
 
 
@@ -281,7 +290,7 @@ def predict(a):
             x = features([mel(segment, ckpt['config']['frontend'])], ckpt['config']).to(device)
             p = net(x).sigmoid().item()
             w.writerow([start/SR, min(start+SAMPLES, len(y))/SR, len(y)<SAMPLES,
-                        p, 'gunshot' if p > .5 else 'non_gunshot'])
+                        p, 'gunshot' if p > ckpt['config'].get('threshold', .5) else 'non_gunshot'])
     print(f'Saved window predictions to {a.output}')
 
 
@@ -291,7 +300,7 @@ def main():
     t = sub.add_parser('train')
     t.add_argument('--data', required=True)
     t.add_argument('--out', default='runs/vgg16_exp6_60')
-    t.add_argument('--model', choices=['vgg16', 'resnet34', 'mobilenet_v2'], default='vgg16')
+    t.add_argument('--model', choices=['vgg16', 'resnet34', 'mobilenet_v2', 'compact_cnn'], default='vgg16')
     t.add_argument('--experiment', type=int, choices=range(1, 7), default=6)
     t.add_argument('--bands', type=int, choices=[60, 83, 128], default=60)
     t.add_argument('--frontend', choices=['notebook', 'paper159'], default='notebook')

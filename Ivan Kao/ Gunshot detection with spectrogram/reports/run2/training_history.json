@@ -1,0 +1,197 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 0.4659426926618542,
+    "val_loss": 0.11359632805849613,
+    "val_gunshot_f1": 0.7891566265060241,
+    "val_gunshot_recall": 0.927734375,
+    "val_gunshot_precision": 0.878003696857671,
+    "threshold": 0.20999999999999996,
+    "val_domain_f1": {
+      "mad": 0.7891566265060241,
+      "original": 0.9542302357836339
+    }
+  },
+  {
+    "epoch": 2,
+    "train_loss": 0.3177747578332367,
+    "val_loss": 0.10185328905884296,
+    "val_gunshot_f1": 0.8463949843260188,
+    "val_gunshot_recall": 0.93359375,
+    "val_gunshot_precision": 0.9157088122605364,
+    "threshold": 0.59,
+    "val_domain_f1": {
+      "mad": 0.8463949843260188,
+      "original": 0.9594405594405594
+    }
+  },
+  {
+    "epoch": 3,
+    "train_loss": 0.29367949757021417,
+    "val_loss": 0.09805199559149777,
+    "val_gunshot_f1": 0.8295819935691319,
+    "val_gunshot_recall": 0.916015625,
+    "val_gunshot_precision": 0.938,
+    "threshold": 0.22999999999999998,
+    "val_domain_f1": {
+      "mad": 0.8295819935691319,
+      "original": 0.9700427960057061
+    }
+  },
+  {
+    "epoch": 4,
+    "train_loss": 0.2600700061035085,
+    "val_loss": 0.15418743439948157,
+    "val_gunshot_f1": 0.8588957055214724,
+    "val_gunshot_recall": 0.947265625,
+    "val_gunshot_precision": 0.9014869888475836,
+    "threshold": 0.7899999999999999,
+    "val_domain_f1": {
+      "mad": 0.8588957055214724,
+      "original": 0.9530386740331491
+    }
+  },
+  {
+    "epoch": 5,
+    "train_loss": 0.24282266174222733,
+    "val_loss": 0.14903851535530024,
+    "val_gunshot_f1": 0.8070175438596491,
+    "val_gunshot_recall": 0.904296875,
+    "val_gunshot_precision": 0.9186507936507936,
+    "threshold": 0.06,
+    "val_domain_f1": {
+      "mad": 0.8070175438596491,
+      "original": 0.9521203830369357
+    }
+  },
+  {
+    "epoch": 6,
+    "train_loss": 0.22402413510615618,
+    "val_loss": 0.09585138272958793,
+    "val_gunshot_f1": 0.88125,
+    "val_gunshot_recall": 0.94921875,
+    "val_gunshot_precision": 0.9642857142857143,
+    "threshold": 0.7999999999999999,
+    "val_domain_f1": {
+      "mad": 0.88125,
+      "original": 0.9913793103448276
+    }
+  },
+  {
+    "epoch": 7,
+    "train_loss": 0.21800992991812304,
+    "val_loss": 0.0768507196404659,
+    "val_gunshot_f1": 0.8408408408408409,
+    "val_gunshot_recall": 0.953125,
+    "val_gunshot_precision": 0.9190207156308852,
+    "threshold": 0.10999999999999999,
+    "val_domain_f1": {
+      "mad": 0.8408408408408409,
+      "original": 0.9802816901408451
+    }
+  },
+  {
+    "epoch": 8,
+    "train_loss": 0.20577325056127418,
+    "val_loss": 0.057840587934747806,
+    "val_gunshot_f1": 0.8923076923076924,
+    "val_gunshot_recall": 0.962890625,
+    "val_gunshot_precision": 0.946257197696737,
+    "threshold": 0.43999999999999995,
+    "val_domain_f1": {
+      "mad": 0.8923076923076924,
+      "original": 0.9830508474576272
+    }
+  },
+  {
+    "epoch": 9,
+    "train_loss": 0.2102374450568384,
+    "val_loss": 0.14674220544740002,
+    "val_gunshot_f1": 0.8832807570977917,
+    "val_gunshot_recall": 0.94921875,
+    "val_gunshot_precision": 0.9642857142857143,
+    "threshold": 0.9299999999999999,
+    "val_domain_f1": {
+      "mad": 0.8832807570977917,
+      "original": 0.9899856938483548
+    }
+  },
+  {
+    "epoch": 10,
+    "train_loss": 0.18412750598976377,
+    "val_loss": 0.059337912118671655,
+    "val_gunshot_f1": 0.9,
+    "val_gunshot_recall": 0.9609375,
+    "val_gunshot_precision": 0.9407265774378585,
+    "threshold": 0.30999999999999994,
+    "val_domain_f1": {
+      "mad": 0.9,
+      "original": 0.9734265734265735
+    }
+  },
+  {
+    "epoch": 11,
+    "train_loss": 0.18068301637766226,
+    "val_loss": 0.0725225178572014,
+    "val_gunshot_f1": 0.8765432098765432,
+    "val_gunshot_recall": 0.95703125,
+    "val_gunshot_precision": 0.95703125,
+    "threshold": 0.6699999999999999,
+    "val_domain_f1": {
+      "mad": 0.8765432098765432,
+      "original": 0.9942857142857143
+    }
+  },
+  {
+    "epoch": 12,
+    "train_loss": 0.15259306505396517,
+    "val_loss": 0.05790154340520671,
+    "val_gunshot_f1": 0.8924050632911392,
+    "val_gunshot_recall": 0.955078125,
+    "val_gunshot_precision": 0.9588235294117647,
+    "threshold": 0.25999999999999995,
+    "val_domain_f1": {
+      "mad": 0.8924050632911392,
+      "original": 0.9858356940509915
+    }
+  },
+  {
+    "epoch": 13,
+    "train_loss": 0.14674361956863113,
+    "val_loss": 0.06551450814558696,
+    "val_gunshot_f1": 0.9015873015873016,
+    "val_gunshot_recall": 0.95703125,
+    "val_gunshot_precision": 0.9780439121756487,
+    "threshold": 0.18,
+    "val_domain_f1": {
+      "mad": 0.9015873015873016,
+      "original": 0.997134670487106
+    }
+  },
+  {
+    "epoch": 14,
+    "train_loss": 0.13992110419051934,
+    "val_loss": 0.06726586691819042,
+    "val_gunshot_f1": 0.9090909090909091,
+    "val_gunshot_recall": 0.962890625,
+    "val_gunshot_precision": 0.974308300395257,
+    "threshold": 0.8099999999999999,
+    "val_domain_f1": {
+      "mad": 0.9090909090909091,
+      "original": 0.9957081545064378
+    }
+  },
+  {
+    "epoch": 15,
+    "train_loss": 0.1321660909001858,
+    "val_loss": 0.05102141429031077,
+    "val_gunshot_f1": 0.9040247678018576,
+    "val_gunshot_recall": 0.96484375,
+    "val_gunshot_precision": 0.96484375,
+    "threshold": 0.4099999999999999,
+    "val_domain_f1": {
+      "mad": 0.9040247678018576,
+      "original": 0.992867332382311
+    }
+  }
+]
