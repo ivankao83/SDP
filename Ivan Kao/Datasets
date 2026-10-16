@@ -6,10 +6,18 @@ https://github.com/Stonewall-Defense/C3GD (train & test)
 
 https://github.com/ShotSpotter/research.accuracy-of-gunshot-location (test only)
 
+https://zenodo.org/records/7004819 (train & test)
+
 Negative: 
 
 https://github.com/karolpiczak/ESC-50 (train & test)
 
+https://github.com/Jakobovski/free-spoken-digit-dataset (train & test)
+
 Mixed:
 
 https://github.com/kaen2891/military_audio_dataset (train & test)
+
+https://urbansounddataset.weebly.com/urbansound8k.html (train & test)
+
+https://zenodo.org/records/3519845 (train & test)
