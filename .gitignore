@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+dataset/
+runs/
+*.pt
+*.wav
+*.flac
+*.ogg
