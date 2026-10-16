@@ -1,0 +1,75 @@
+{
+  "non_gunshot": {
+    "precision": 0.9460154241645244,
+    "recall": 0.9722589167767504,
+    "f1-score": 0.958957654723127,
+    "support": 757.0
+  },
+  "gunshot": {
+    "precision": 0.918918918918919,
+    "recall": 0.85,
+    "f1-score": 0.8831168831168831,
+    "support": 280.0
+  },
+  "accuracy": 0.9392478302796529,
+  "macro avg": {
+    "precision": 0.9324671715417217,
+    "recall": 0.9111294583883751,
+    "f1-score": 0.921037268920005,
+    "support": 1037.0
+  },
+  "weighted avg": {
+    "precision": 0.9386991064511497,
+    "recall": 0.9392478302796529,
+    "f1-score": 0.9384799150415953,
+    "support": 1037.0
+  },
+  "confusion_matrix_rows_true_columns_predicted": [
+    [
+      736,
+      21
+    ],
+    [
+      42,
+      238
+    ]
+  ],
+  "roc_auc": 0.9781090771843743,
+  "threshold": 0.6,
+  "metric_unit": "recording",
+  "pooling": "max_window_probability",
+  "dataset": "MAD official test split",
+  "checkpoint": "/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/runs/mad_full_spectrum/best.pt",
+  "binary_mapping": "MAD label 1 positive; all other labels negative",
+  "checkpoint_sha256": "a56c8e2be5f200654d425627d874e84412ee2817eb110e82fdcc3558578eb7c8",
+  "per_mad_class": {
+    "communication": {
+      "recordings": 207,
+      "predicted_gunshot": 6
+    },
+    "gunshot": {
+      "recordings": 280,
+      "predicted_gunshot": 238
+    },
+    "footsteps": {
+      "recordings": 104,
+      "predicted_gunshot": 4
+    },
+    "shelling": {
+      "recordings": 104,
+      "predicted_gunshot": 5
+    },
+    "vehicle": {
+      "recordings": 122,
+      "predicted_gunshot": 2
+    },
+    "helicopter": {
+      "recordings": 91,
+      "predicted_gunshot": 4
+    },
+    "fighter": {
+      "recordings": 129,
+      "predicted_gunshot": 0
+    }
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "background_before_after": {
+    "before": {
+      "all_development": {
+        "source_recordings": 57,
+        "duration_seconds": 4171.878083333334,
+        "ten_second_clips_including_short_tails": 425,
+        "flagged_clips_candidate_false_alarms": 89,
+        "correctly_rejected_clips_assuming_negative_labels": 336,
+        "candidate_false_alarm_clip_rate": 0.20941176470588235,
+        "negative_clip_rejection_rate": 0.7905882352941176,
+        "recordings_with_any_flag": 20,
+        "candidate_alert_events": 64.0,
+        "candidate_alert_events_per_hour": 55.226925475231106,
+        "alerted_audio_fraction": 0.16140338632858336
+      },
+      "train": {
+        "source_recordings": 45,
+        "duration_seconds": 3098.6676666666667,
+        "ten_second_clips_including_short_tails": 317,
+        "flagged_clips_candidate_false_alarms": 83,
+        "correctly_rejected_clips_assuming_negative_labels": 234,
+        "candidate_false_alarm_clip_rate": 0.2618296529968454,
+        "negative_clip_rejection_rate": 0.7381703470031545,
+        "recordings_with_any_flag": 17,
+        "candidate_alert_events": 58.0,
+        "candidate_alert_events_per_hour": 67.38379925221625,
+        "alerted_audio_fraction": 0.20942581451404438
+      },
+      "val": {
+        "source_recordings": 12,
+        "duration_seconds": 1073.2104166666668,
+        "ten_second_clips_including_short_tails": 108,
+        "flagged_clips_candidate_false_alarms": 6,
+        "correctly_rejected_clips_assuming_negative_labels": 102,
+        "candidate_false_alarm_clip_rate": 0.05555555555555555,
+        "negative_clip_rejection_rate": 0.9444444444444444,
+        "recordings_with_any_flag": 3,
+        "candidate_alert_events": 6.0,
+        "candidate_alert_events_per_hour": 20.126528465022194,
+        "alerted_audio_fraction": 0.022748800813757786
+      }
+    },
+    "after": {
+      "all_development": {
+        "source_recordings": 57,
+        "duration_seconds": 4171.878083333334,
+        "ten_second_clips_including_short_tails": 425,
+        "flagged_clips_candidate_false_alarms": 40,
+        "correctly_rejected_clips_assuming_negative_labels": 385,
+        "candidate_false_alarm_clip_rate": 0.09411764705882353,
+        "negative_clip_rejection_rate": 0.9058823529411765,
+        "recordings_with_any_flag": 11,
+        "candidate_alert_events": 43.0,
+        "candidate_alert_events_per_hour": 37.1055905536709,
+        "alerted_audio_fraction": 0.059504375497390384
+      },
+      "train": {
+        "source_recordings": 45,
+        "duration_seconds": 3098.6676666666667,
+        "ten_second_clips_including_short_tails": 317,
+        "flagged_clips_candidate_false_alarms": 40,
+        "correctly_rejected_clips_assuming_negative_labels": 277,
+        "candidate_false_alarm_clip_rate": 0.12618296529968454,
+        "negative_clip_rejection_rate": 0.8738170347003155,
+        "recordings_with_any_flag": 10,
+        "candidate_alert_events": 41.0,
+        "candidate_alert_events_per_hour": 47.633375333463206,
+        "alerted_audio_fraction": 0.07817714774833873
+      },
+      "val": {
+        "source_recordings": 12,
+        "duration_seconds": 1073.2104166666668,
+        "ten_second_clips_including_short_tails": 108,
+        "flagged_clips_candidate_false_alarms": 0,
+        "correctly_rejected_clips_assuming_negative_labels": 108,
+        "candidate_false_alarm_clip_rate": 0.0,
+        "negative_clip_rejection_rate": 1.0,
+        "recordings_with_any_flag": 1,
+        "candidate_alert_events": 2.0,
+        "candidate_alert_events_per_hour": 6.708842821674065,
+        "alerted_audio_fraction": 0.005590702351395054
+      }
+    }
+  },
+  "selected_checkpoint": {
+    "epoch": 1,
+    "train_loss": 0.29967011064345844,
+    "validation_loss": 0.16609485946365263,
+    "eligible": true,
+    "score": 1.1660818713450292,
+    "threshold": 0.19999999999999996,
+    "negative_clip_rejection": 1.0,
+    "gunshot_recall_by_domain": {
+      "original": 1.0,
+      "mad": 0.8658536585365854,
+      "c3gd_augmented": 0.7733333333333333
+    },
+    "gunshot_f1_by_domain": {
+      "original": 0.9613259668508287,
+      "mad": 0.8304093567251462,
+      "c3gd_augmented": 0.8390596745027125
+    },
+    "negative_source_rejection_from_clip_scores": 1.0
+  },
+  "interpretation": "New background corpus became development data after its first frozen test. After-training scores are train/validation rechecks, not an independent new test.",
+  "initialization": "Saved run3 weights; no previous run overwritten.",
+  "shotspotter": "Test-only; never used for training, validation, or threshold selection.",
+  "shotspotter_test": {
+    "mode": "test_only",
+    "training_performed": false,
+    "threshold_tuning_performed": false,
+    "checkpoint_selection_performed": false,
+    "dataset": "ShotSpotter Pittsburgh live-fire tests 2018-12-18",
+    "source": "https://github.com/ShotSpotter/research.accuracy-of-gunshot-location",
+    "label_basis": "All sensor recordings are positive according to live-fire metadata.",
+    "prespecified_reference_threshold": null,
+    "metric_unit": "sensor_recording",
+    "pooling": "maximum probability over 3-second windows at 1-second hop",
+    "checkpoints": [
+      {
+        "path": "runs/run4_background_revision/best.pt",
+        "sha256_before": "0bf23f9fe6bac033d2b6ca81787f4ad08892aa455a9bdf13bf5e5477e4cbbd3f",
+        "threshold": 0.19999999999999996
+      }
+    ],
+    "decoded_exact_overlap_with_training_validation": 0,
+    "recordings": 765,
+    "unique_raw_audio_hashes": 765,
+    "total_sensor_recording_seconds": 7650.0,
+    "limitations": [
+      "Multiple sensors record the same firing test, so recordings are correlated.",
+      "Maximum recording scores do not establish which individual shots were detected.",
+      "No negative class is supplied; false alarms and two-class accuracy are unmeasured.",
+      "Exact-audio hash checks cannot rule out all shared-source or near-duplicate audio."
+    ],
+    "results": [
+      {
+        "model": "run4_background_revision",
+        "checkpoint": "runs/run4_background_revision/best.pt",
+        "checkpoint_sha256_before": "0bf23f9fe6bac033d2b6ca81787f4ad08892aa455a9bdf13bf5e5477e4cbbd3f",
+        "checkpoint_sha256_after": "0bf23f9fe6bac033d2b6ca81787f4ad08892aa455a9bdf13bf5e5477e4cbbd3f",
+        "checkpoint_unchanged": true,
+        "threshold": 0.19999999999999996,
+        "recordings": 765,
+        "detected": 395,
+        "missed": 370,
+        "recording_gunshot_recall": 0.5163398692810458,
+        "by_firearm": {
+          "40 Cal Automatic Handgun": {
+            "recordings": 251,
+            "detected": 135,
+            "missed": 116,
+            "recording_gunshot_recall": 0.5378486055776892
+          },
+          "45 Cal Automatic Handgun": {
+            "recordings": 274,
+            "detected": 121,
+            "missed": 153,
+            "recording_gunshot_recall": 0.4416058394160584
+          },
+          "9mm Automatic Handgun": {
+            "recordings": 240,
+            "detected": 139,
+            "missed": 101,
+            "recording_gunshot_recall": 0.5791666666666667
+          }
+        },
+        "by_firing_position": {
+          "FP1": {
+            "recordings": 88,
+            "detected": 49,
+            "missed": 39,
+            "recording_gunshot_recall": 0.5568181818181818
+          },
+          "FP2": {
+            "recordings": 98,
+            "detected": 25,
+            "missed": 73,
+            "recording_gunshot_recall": 0.25510204081632654
+          },
+          "FP3": {
+            "recordings": 82,
+            "detected": 43,
+            "missed": 39,
+            "recording_gunshot_recall": 0.524390243902439
+          },
+          "FP4": {
+            "recordings": 74,
+            "detected": 52,
+            "missed": 22,
+            "recording_gunshot_recall": 0.7027027027027027
+          },
+          "FP5": {
+            "recordings": 72,
+            "detected": 24,
+            "missed": 48,
+            "recording_gunshot_recall": 0.3333333333333333
+          },
+          "FP6": {
+            "recordings": 108,
+            "detected": 26,
+            "missed": 82,
+            "recording_gunshot_recall": 0.24074074074074073
+          },
+          "FP7": {
+            "recordings": 71,
+            "detected": 61,
+            "missed": 10,
+            "recording_gunshot_recall": 0.8591549295774648
+          },
+          "FP8": {
+            "recordings": 100,
+            "detected": 48,
+            "missed": 52,
+            "recording_gunshot_recall": 0.48
+          },
+          "FP9": {
+            "recordings": 72,
+            "detected": 67,
+            "missed": 5,
+            "recording_gunshot_recall": 0.9305555555555556
+          }
+        },
+        "firing_tests": 162,
+        "tests_with_at_least_one_sensor_flagged": 159,
+        "tests_with_no_sensor_flagged": 3,
+        "accuracy": null,
+        "precision": null,
+        "roc_auc": null,
+        "false_positive_rate": null,
+        "unavailable_reason": "No labeled negative recordings; report positive-recording recall only."
+      }
+    ]
+  },
+  "original_test": {
+    "non_gunshot": {
+      "precision": 1.0,
+      "recall": 0.978448275862069,
+      "f1-score": 0.9891067538126361,
+      "support": 1160.0
+    },
+    "gunshot": {
+      "precision": 0.9542961608775137,
+      "recall": 1.0,
+      "f1-score": 0.9766136576239476,
+      "support": 522.0
+    },
+    "accuracy": 0.9851367419738407,
+    "macro avg": {
+      "precision": 0.9771480804387569,
+      "recall": 0.9892241379310345,
+      "f1-score": 0.9828602057182918,
+      "support": 1682.0
+    },
+    "weighted avg": {
+      "precision": 0.9858160499275043,
+      "recall": 0.9851367419738407,
+      "f1-score": 0.9852295860299397,
+      "support": 1682.0
+    },
+    "confusion_matrix_rows_true_columns_predicted": [
+      [
+        1135,
+        25
+      ],
+      [
+        0,
+        522
+      ]
+    ],
+    "roc_auc": 0.9992138987977276,
+    "threshold": 0.19999999999999996,
+    "loss": 0.026352294768327483,
+    "metric_unit": "recording",
+    "pooling": "max_window_probability"
+  },
+  "mad_test": {
+    "non_gunshot": {
+      "precision": 0.9610738255033557,
+      "recall": 0.9458388375165125,
+      "f1-score": 0.9533954727030626,
+      "support": 757.0
+    },
+    "gunshot": {
+      "precision": 0.8595890410958904,
+      "recall": 0.8964285714285715,
+      "f1-score": 0.8776223776223776,
+      "support": 280.0
+    },
+    "accuracy": 0.9324975891996142,
+    "macro avg": {
+      "precision": 0.9103314332996231,
+      "recall": 0.9211337044725421,
+      "f1-score": 0.9155089251627201,
+      "support": 1037.0
+    },
+    "weighted avg": {
+      "precision": 0.9336719550751106,
+      "recall": 0.9324975891996142,
+      "f1-score": 0.9329360063360502,
+      "support": 1037.0
+    },
+    "confusion_matrix_rows_true_columns_predicted": [
+      [
+        716,
+        41
+      ],
+      [
+        29,
+        251
+      ]
+    ],
+    "roc_auc": 0.9741319116814493,
+    "threshold": 0.19999999999999996,
+    "metric_unit": "recording",
+    "pooling": "max_window_probability",
+    "dataset": "MAD official test split",
+    "checkpoint": "/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/runs/run4_background_revision/best.pt",
+    "binary_mapping": "MAD label 1 positive; all other labels negative",
+    "checkpoint_sha256": "0bf23f9fe6bac033d2b6ca81787f4ad08892aa455a9bdf13bf5e5477e4cbbd3f",
+    "per_mad_class": {
+      "communication": {
+        "recordings": 207,
+        "predicted_gunshot": 8
+      },
+      "gunshot": {
+        "recordings": 280,
+        "predicted_gunshot": 251
+      },
+      "footsteps": {
+        "recordings": 104,
+        "predicted_gunshot": 14
+      },
+      "shelling": {
+        "recordings": 104,
+        "predicted_gunshot": 14
+      },
+      "vehicle": {
+        "recordings": 122,
+        "predicted_gunshot": 2
+      },
+      "helicopter": {
+        "recordings": 91,
+        "predicted_gunshot": 3
+      },
+      "fighter": {
+        "recordings": 129,
+        "predicted_gunshot": 0
+      }
+    }
+  }
+}

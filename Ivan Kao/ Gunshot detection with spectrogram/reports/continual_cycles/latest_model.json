@@ -1,0 +1,16 @@
+{
+  "checkpoint": "/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/runs/run8_urban/best.pt",
+  "sha256": "637b67d68d0c52e622cac805f463a896b10778bbb3df0a6b6752704c6f64ab05",
+  "threshold": 0.31,
+  "status": "development checkpoint; EDGE and ShotSpotter recall remain weak",
+  "trained_weight_updates_accepted": [
+    "run5_sesa_valid"
+  ],
+  "subsequent_training_candidates_rejected": [
+    "run6_fsdd",
+    "run7_edge_distilled",
+    "run8_urban"
+  ],
+  "results": "reports/continual_cycles/workbook_data.json",
+  "shotspotter_test_only": true
+}

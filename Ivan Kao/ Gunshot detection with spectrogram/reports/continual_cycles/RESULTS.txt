@@ -1,0 +1,38 @@
+Continued gunshot detection experiments
+
+Primary comparisons use held-out files never used for optimization or threshold selection. Datasets are selected adaptively across cycles; this is development evidence, not an independent final certification.
+
+Run #5 SESA mixed sounds
+Selected trained weights.
+  before: 105 held-out files; accuracy 88.57%; recall 66.67%; false-positive rate 5.95%; TP=14, FN=7, FP=5, TN=79; threshold=0.20
+  after: 105 held-out files; accuracy 93.33%; recall 90.48%; false-positive rate 5.95%; TP=19, FN=2, FP=5, TN=79; threshold=0.31
+
+Run #6 FSDD spoken digits
+Prior weights retained; threshold recalibrated.
+  before: 500 held-out files; accuracy n.a.; recall n.a.; false-positive rate 2.60%; TP=0, FN=0, FP=13, TN=487; threshold=0.31
+  after: 500 held-out files; accuracy n.a.; recall n.a.; false-positive rate 2.40%; TP=0, FN=0, FP=12, TN=488; threshold=0.32
+
+Run #7 EDGE gunshots
+Prior weights retained; threshold recalibrated.
+  before: 89 held-out files; accuracy n.a.; recall 52.81%; false-positive rate n.a.; TP=47, FN=42, FP=0, TN=0; threshold=0.32
+  after: 89 held-out files; accuracy n.a.; recall 55.06%; false-positive rate n.a.; TP=49, FN=40, FP=0, TN=0; threshold=0.29
+
+Run #8 UrbanSound8K subset
+Prior weights retained; threshold recalibrated.
+  before: 110 held-out files; accuracy 96.36%; recall 90.91%; false-positive rate 2.27%; TP=20, FN=2, FP=2, TN=86; threshold=0.29
+  after: 110 held-out files; accuracy 96.36%; recall 90.91%; false-positive rate 2.27%; TP=20, FN=2, FP=2, TN=86; threshold=0.31
+
+Latest checkpoint across all held-out datasets (threshold 0.31)
+  SESA: N=105; accuracy 93.33%; recall 90.48%; false-positive rate 5.95%
+  FSDD: N=500; accuracy n.a.; recall n.a.; false-positive rate 2.60%
+  EDGE: N=89; accuracy n.a.; recall 53.93%; false-positive rate n.a.
+  UrbanSound8K: N=110; accuracy 96.36%; recall 90.91%; false-positive rate 2.27%
+  Original: N=1682; accuracy 98.57%; recall 100.00%; false-positive rate 2.07%
+  MAD: N=1037; accuracy 92.86%; recall 87.14%; false-positive rate 5.02%
+  ShotSpotter: N=765; accuracy n.a.; recall 49.54%; false-positive rate n.a.
+  C3GD: N=4103; accuracy n.a.; recall 98.90%; false-positive rate n.a.
+
+Only the SESA cycle adopted trained weight changes. FSDD, EDGE, and UrbanSound8K training candidates did not improve the validation selection objective, so inherited weights were retained with validation-selected thresholds.
+The UrbanSound8K first test before any training on that corpus already met the working mixed-data targets (96.36% accuracy, 90.91% recall, 2.27% false-positive rate).
+Performance is not uniformly good: EDGE and ShotSpotter gunshot recall remain weak. More cycles did not establish universal accuracy.
+Known-background recheck includes train/validation files and must not be reported as unseen-test performance.

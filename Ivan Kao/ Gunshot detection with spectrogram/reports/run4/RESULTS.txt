@@ -1,0 +1,21 @@
+Run #4: false-alarm testing only
+
+New data: official MS-SNSD noise_test (51 recordings) and DEMAND ch01 in six selected environments (6 recordings). Total audio: 69.53 minutes. Approximately 10-second clips; final tails under 3 seconds were merged into the preceding clip. These are presumed-negative recordings, not exhaustively gunshot-audited ground truth.
+
+Model | Threshold | Flagged clips | Total clips | Candidate false-alarm clip rate | Negative clip rejection rate | Candidate alert events/hour
+Run #2 | 0.81 | 71 | 425 | 16.71% | 83.29% | 41.42
+Run #3 | 0.48 | 89 | 425 | 20.94% | 79.06% | 55.23
+
+Alarm episodes merge overlapping flagged 3-second windows within each complete source recording. This continuous-window diagnostic includes windows crossing the separate 10-second clip boundaries, so event counts need not match clip flags.
+
+Main issue categories: typing, chewing/munching, shutting doors, and copying machinery. Review candidate_alert_intervals.csv and the associated source audio before treating every flag as a confirmed false alarm.
+
+No training, threshold tuning, or model selection was performed in run #4. All six prior checkpoint files are unchanged. No exact decoded training/validation audio overlap was found; near-duplicates or shared source recordings cannot be ruled out by hashes alone. These negative-only scores do not establish gunshot recall, precision, F1, AUC, or two-class accuracy.
+
+Cleanup: deleted the extracted MAD and C3GD ZIP archives and rebuildable MAD/C3GD feature caches; raw audio, manifests, weights, and results were retained. Recovered 3.63 GiB before downloading the new compact audio. The temporary DEMAND kitchen ZIP was deleted after its checksum and selected channel were verified.
+
+Training history: run #1 trained MobileNet V2 from scratch; run #2 trained the compact CNN from scratch; run #3 loaded run #2 weights and fine-tuned all layers; run #4 is inference only.
+
+Sources:
+https://github.com/microsoft/MS-SNSD
+https://zenodo.org/records/1227121

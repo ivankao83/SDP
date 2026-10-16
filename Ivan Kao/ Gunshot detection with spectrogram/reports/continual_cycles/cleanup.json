@@ -1,0 +1,27 @@
+{
+  "removed": [
+    {
+      "path": "runs/continual_cycles/replay_features",
+      "bytes": 577626880
+    },
+    {
+      "path": "runs/run5_sesa",
+      "bytes": 431007,
+      "status": "invalid preparation attempt; no valid training result"
+    },
+    {
+      "path": "runs/run5_sesa_preflight_group_check",
+      "bytes": 298107,
+      "status": "invalid preparation attempt; no valid training result"
+    },
+    {
+      "path": "runs/run5_sesa_preflight_cache_check",
+      "bytes": 395306,
+      "status": "invalid preparation attempt; no valid training result"
+    }
+  ],
+  "total_bytes_removed": 725431492,
+  "raw_audio_and_valid_checkpoints_preserved": true,
+  "new_dataset_feature_caches_preserved_for_future_cycles": true,
+  "old_replay_features_rebuilt_automatically_next_cycle": true
+}

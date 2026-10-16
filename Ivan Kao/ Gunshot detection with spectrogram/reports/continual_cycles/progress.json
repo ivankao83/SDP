@@ -1,0 +1,72 @@
+[
+  {
+    "run": "run5_sesa_valid",
+    "dataset": "SESA",
+    "selected_epoch": 6,
+    "before": {
+      "recordings": 105,
+      "accuracy": 0.8857142857142857,
+      "gunshot_recall": 0.6666666666666666,
+      "gunshot_precision": 0.7368421052631579,
+      "gunshot_f1": 0.7,
+      "roc_auc": 0.9478458049886621,
+      "false_positive_rate": 0.05952380952380952,
+      "negative_rejection_rate": 0.9404761904761905,
+      "threshold": 0.19999999999999996,
+      "gunshots_detected": 14,
+      "gunshots_missed": 7,
+      "false_alarms": 5,
+      "correct_non_gunshots": 79
+    },
+    "after": {
+      "recordings": 105,
+      "accuracy": 0.9333333333333333,
+      "gunshot_recall": 0.9047619047619048,
+      "gunshot_precision": 0.7916666666666666,
+      "gunshot_f1": 0.8444444444444444,
+      "roc_auc": 0.976190476190476,
+      "false_positive_rate": 0.05952380952380952,
+      "negative_rejection_rate": 0.9404761904761905,
+      "threshold": 0.30999999999999994,
+      "gunshots_detected": 19,
+      "gunshots_missed": 2,
+      "false_alarms": 5,
+      "correct_non_gunshots": 79
+    }
+  },
+  {
+    "run": "run6_fsdd",
+    "dataset": "FSDD",
+    "selected_epoch": 0,
+    "before": {
+      "recordings": 500,
+      "accuracy": null,
+      "gunshot_recall": null,
+      "gunshot_precision": null,
+      "gunshot_f1": null,
+      "roc_auc": null,
+      "false_positive_rate": 0.026,
+      "negative_rejection_rate": 0.974,
+      "threshold": 0.30999999999999994,
+      "gunshots_detected": 0,
+      "gunshots_missed": 0,
+      "false_alarms": 13,
+      "correct_non_gunshots": 487
+    },
+    "after": {
+      "recordings": 500,
+      "accuracy": null,
+      "gunshot_recall": null,
+      "gunshot_precision": null,
+      "gunshot_f1": null,
+      "roc_auc": null,
+      "false_positive_rate": 0.024,
+      "negative_rejection_rate": 0.976,
+      "threshold": 0.31999999999999995,
+      "gunshots_detected": 0,
+      "gunshots_missed": 0,
+      "false_alarms": 12,
+      "correct_non_gunshots": 488
+    }
+  }
+]

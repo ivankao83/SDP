@@ -1,0 +1,33 @@
+{
+  "authorized_cleanup": "Downloaded archives after extraction and rebuildable feature caches only",
+  "paths": [
+    "dataset/C3GD.zip",
+    "dataset/mad_audio.zip",
+    "dataset/MAD/full_spectrum_cache_v1",
+    "dataset/C3GD/paired_cache_v1"
+  ],
+  "checkpoint_sha256_before": {
+    "runs/mixed_full_spectrum/best.pt": "2cff29075d9ec5f03ef77a631d81d23610623f82878397f89af6b502a35aa78f",
+    "runs/mad_full_spectrum/best.pt": "a56c8e2be5f200654d425627d874e84412ee2817eb110e82fdcc3558578eb7c8",
+    "runs/exp1/best.pt": "625cf14b63f798097b592d1e1e80bd15f382b21965ba5e8810a35f0b231b4a14",
+    "runs/c3gd_transfer_invalid_labels/best.pt": "254f87db312aa0bc6b7f96536bdd25ea13f5a1ad46a91ebc997e7361b36fae1d",
+    "runs/c3gd_balanced/best.pt": "59a1f5fdea07d3b324e1de332515f09e5bec827ec2c7bbe48fa7e769b009a7c3",
+    "runs/c3gd_transfer/best.pt": "ce689d2df4bcd88caa97018abf9a3a61cb09e1268953a7403eaeeb9ff05bfafa"
+  },
+  "raw_C3GD_recordings_verified": 12112,
+  "raw_MAD_recordings_verified": 7466,
+  "free_bytes_before": 2793172992,
+  "completed": true,
+  "checkpoint_sha256_after": {
+    "runs/mixed_full_spectrum/best.pt": "2cff29075d9ec5f03ef77a631d81d23610623f82878397f89af6b502a35aa78f",
+    "runs/mad_full_spectrum/best.pt": "a56c8e2be5f200654d425627d874e84412ee2817eb110e82fdcc3558578eb7c8",
+    "runs/exp1/best.pt": "625cf14b63f798097b592d1e1e80bd15f382b21965ba5e8810a35f0b231b4a14",
+    "runs/c3gd_transfer_invalid_labels/best.pt": "254f87db312aa0bc6b7f96536bdd25ea13f5a1ad46a91ebc997e7361b36fae1d",
+    "runs/c3gd_balanced/best.pt": "59a1f5fdea07d3b324e1de332515f09e5bec827ec2c7bbe48fa7e769b009a7c3",
+    "runs/c3gd_transfer/best.pt": "ce689d2df4bcd88caa97018abf9a3a61cb09e1268953a7403eaeeb9ff05bfafa"
+  },
+  "free_bytes_after": 6692118528,
+  "net_free_bytes_gained": 3898945536,
+  "free_bytes_after_new_test_data": 6598066176,
+  "new_audio_bytes": 133502598
+}
