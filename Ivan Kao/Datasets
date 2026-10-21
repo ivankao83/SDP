@@ -14,6 +14,12 @@ https://github.com/karolpiczak/ESC-50 (train & test)
 
 https://github.com/Jakobovski/free-spoken-digit-dataset (train & test)
 
+https://github.com/soerenab/AudioMNIST (train & test)
+
+https://dcase.community/challenge2016/task-sound-event-detection-in-synthetic-audio (train & test)
+
+https://zenodo.org/records/1227121 (train & test)
+
 Mixed:
 
 https://github.com/kaen2891/military_audio_dataset (train & test)
@@ -21,3 +27,23 @@ https://github.com/kaen2891/military_audio_dataset (train & test)
 https://urbansounddataset.weebly.com/urbansound8k.html (train & test)
 
 https://zenodo.org/records/3519845 (train & test)
+
+https://data.mendeley.com/datasets/x48cwz364j/3 (train & test)
+
+https://data.mendeley.com/datasets/kbgw323248/1 (train & test)
+
+Baseline Datasets:
+
+Positive: 
+
+https://github.com/ShotSpotter/research.accuracy-of-gunshot-location (test only)
+
+https://hearbenchmark.com/hear-tasks.html (test only)
+
+Mixed:
+
+https://zenodo.org/records/4060432 (test only)
+
+Negative: 
+
+https://github.com/rbsingh13/Plastic-Bag-Pop-sounds (test only)
