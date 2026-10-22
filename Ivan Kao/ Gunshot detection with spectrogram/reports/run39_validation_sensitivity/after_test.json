@@ -1,0 +1,15 @@
+{
+  "recordings": 1140,
+  "accuracy": 0.8166666666666667,
+  "gunshot_recall": 1.0,
+  "gunshot_precision": 0.045662100456621,
+  "gunshot_f1": 0.08733624454148471,
+  "roc_auc": 0.972566371681416,
+  "false_positive_rate": 0.18495575221238938,
+  "negative_rejection_rate": 0.8150442477876106,
+  "threshold": 0.23999999999999996,
+  "gunshots_detected": 10,
+  "gunshots_missed": 0,
+  "false_alarms": 209,
+  "correct_non_gunshots": 921
+}

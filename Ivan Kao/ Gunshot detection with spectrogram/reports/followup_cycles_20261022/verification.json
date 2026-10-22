@@ -1,0 +1,12 @@
+{
+  "same_800_paths_labels_and_manifest_sha256": "1d6312603fd2f5f639608629b098bde600d071e479dabbf62559a95350173d27",
+  "reserved_training_validation_overlap": 0,
+  "new_heldout_training_validation_overlap": 0,
+  "metrics_independently_recomputed": true,
+  "production_prediction_matches_saved_result_for_each_baseline_dataset": true,
+  "cnn_sha256": "d772ef4312dd46566a7b29155d11881ac1c1a7b3efc82aa6267e0daf5815985b",
+  "refiner_sha256": "a0bf19bde1ee703432a5f4ecdd01942a00cbc5eec1cada27b5839549be3b9b0b",
+  "adapted_cnn_sha256": "8744f72ce6a88b685da2d4e983f5a128a21c46e657f43b6acd9c2e1bc3142bb2",
+  "adapted_checkpoint_hash_verified": true,
+  "selected_before_baseline_prediction": true
+}

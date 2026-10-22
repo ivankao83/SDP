@@ -1,0 +1,184 @@
+[
+  {
+    "dataset": "GreatestHits",
+    "counts": {
+      "train": 824,
+      "test": 129,
+      "val": 47
+    },
+    "label_counts": {
+      "0": 1000
+    },
+    "source_groups": {
+      "train": 19,
+      "val": 4,
+      "test": 5
+    },
+    "provenance": {
+      "original_source": "https://www.andrewowens.com/vis/hits.html",
+      "mirror": "https://huggingface.co/datasets/dukesun99/GreatestHits-V2A",
+      "parquet_sha256": "df6d7ace871c1955c8d07fd00aa3acbb1516c33a7abb942f91f8f18c12751843",
+      "label_basis": "Recorded drumstick interactions with everyday objects; all negative for firearm discharge.",
+      "split": "Recording day separated, including all original-video fragments on one day.",
+      "days": {
+        "2015-03-29": "train",
+        "2015-09-12": "train",
+        "2015-02-22": "train",
+        "2015-03-15": "train",
+        "2015-10-06": "train",
+        "2015-09-28": "train",
+        "2015-09-30": "train",
+        "2015-10-02": "train",
+        "2015-03-31": "train",
+        "2015-09-24": "train",
+        "2015-10-03": "train",
+        "2015-09-29": "train",
+        "2015-03-12": "train",
+        "2015-02-23": "train",
+        "2015-09-23": "train",
+        "2015-09-18": "train",
+        "2015-03-28": "train",
+        "2015-10-04": "train",
+        "2015-02-16": "train",
+        "2015-03-24": "val",
+        "2015-03-27": "val",
+        "2015-03-25": "val",
+        "2015-09-26": "val",
+        "2015-02-21": "test",
+        "2015-03-13": "test",
+        "2015-03-30": "test",
+        "2015-03-20": "test",
+        "2015-09-27": "test"
+      }
+    }
+  },
+  {
+    "dataset": "HuntingGunshots",
+    "counts": {
+      "train": 348,
+      "test": 100,
+      "val": 100
+    },
+    "label_counts": {
+      "1": 548
+    },
+    "source_groups": {
+      "train": 18,
+      "val": 5,
+      "test": 5
+    },
+    "provenance": {
+      "source": "https://zenodo.org/records/5068271",
+      "label_basis": "Author semi-supervised gunshot labels from hunting videos.",
+      "split": "Adjacent numbered clips grouped in blocks of 20; original YouTube IDs unavailable.",
+      "limitation": "Clip grouping cannot establish full original-video independence. Weak labels receive 0.25 relative weight in supervised training."
+    }
+  },
+  {
+    "dataset": "SixKSFX",
+    "counts": {
+      "test": 216,
+      "train": 646,
+      "val": 210
+    },
+    "label_counts": {
+      "1": 197,
+      "0": 875
+    },
+    "source_groups": {
+      "train": 180,
+      "val": 59,
+      "test": 60
+    },
+    "provenance": {
+      "source": "https://zenodo.org/records/14517916",
+      "label_basis": "Author synthesis categories. GunshotSynth positive; fireworks/crackling/glass/metal/applause negative.",
+      "split": "Conservative shared family index modulo 50 groups possible numbered noise variants together.",
+      "limitation": "Generator seed and augmentation lineage are not supplied; this assumption does not prove independent synthetic source families.",
+      "classes": [
+        "GunshotSynth",
+        "FireworksSynth",
+        "CracklingSynth",
+        "DebrisGlassSynth",
+        "MetalDebrisSynth",
+        "ApplauseSynth"
+      ],
+      "family_split": {
+        "6": "train",
+        "21": "train",
+        "15": "train",
+        "1": "train",
+        "40": "train",
+        "4": "train",
+        "0": "train",
+        "46": "train",
+        "36": "train",
+        "8": "train",
+        "49": "train",
+        "23": "train",
+        "17": "train",
+        "20": "train",
+        "25": "train",
+        "14": "train",
+        "26": "train",
+        "18": "train",
+        "39": "train",
+        "31": "train",
+        "48": "train",
+        "42": "train",
+        "12": "train",
+        "43": "train",
+        "9": "train",
+        "44": "train",
+        "41": "train",
+        "24": "train",
+        "5": "train",
+        "11": "train",
+        "34": "val",
+        "3": "val",
+        "47": "val",
+        "13": "val",
+        "45": "val",
+        "29": "val",
+        "7": "val",
+        "19": "val",
+        "28": "val",
+        "37": "val",
+        "2": "test",
+        "35": "test",
+        "22": "test",
+        "32": "test",
+        "27": "test",
+        "16": "test",
+        "30": "test",
+        "38": "test",
+        "33": "test",
+        "10": "test"
+      }
+    }
+  },
+  {
+    "dataset": "TUTRare2017",
+    "counts": {
+      "train": 11,
+      "val": 5,
+      "test": 5
+    },
+    "label_counts": {
+      "1": 8,
+      "0": 13
+    },
+    "source_groups": {
+      "train": 11,
+      "val": 5,
+      "test": 5
+    },
+    "provenance": {
+      "source": "https://zenodo.org/records/1160455",
+      "all_FSD50K_source_ids_excluded": true,
+      "additional_ESC50_UrbanSound8K_source_ids_excluded": true,
+      "label_basis": "Author rare-event category; gunshot positive, glassbreak and babycry negative.",
+      "limitation": "Small remainder after overlap exclusion; Freesound uploader independence from SESA cannot be established."
+    }
+  }
+]

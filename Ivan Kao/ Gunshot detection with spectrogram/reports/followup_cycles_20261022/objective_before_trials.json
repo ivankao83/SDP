@@ -1,0 +1,11 @@
+{
+  "starting_run": "run41_balanced_validation",
+  "starting_accuracy": 0.8125,
+  "minimum_accuracy_gain": 0.05,
+  "minimum_accuracy": 0.8625,
+  "minimum_gunshot_recall": 0.8260869565217391,
+  "maximum_false_alarms_exclusive": 126,
+  "recordings": 800,
+  "interpretation": "Practical improvement target, not a statistical-significance claim. Paired predictions retained; correlated microphones/events and adaptive baseline reuse limit inference.",
+  "baseline_roles": "No baseline audio, labels or predictions in training, within-run validation, threshold or model-stage selection. Repeated evaluation determines whether to continue and informs strategy changes."
+}

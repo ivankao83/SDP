@@ -1,0 +1,8 @@
+{
+  "threshold": 0.21999999999999997,
+  "minimum_validation_recall": 0.97,
+  "validation_recall": 0.9739583333333334,
+  "anchor_weight": 0.0,
+  "added_trees": 0,
+  "selected_before_reserved_prediction": true
+}

@@ -1,0 +1,43 @@
+{
+  "cycles": [
+    {
+      "run": "run10_audiomnist",
+      "checkpoint_hash_verified": true,
+      "trained_weights_changed": true,
+      "test_predictions_verified": true,
+      "reserved_data_excluded": true
+    },
+    {
+      "run": "run11_office",
+      "checkpoint_hash_verified": true,
+      "trained_weights_changed": true,
+      "test_predictions_verified": true,
+      "reserved_data_excluded": true
+    },
+    {
+      "run": "run12_demand",
+      "checkpoint_hash_verified": true,
+      "trained_weights_changed": true,
+      "test_predictions_verified": true,
+      "reserved_data_excluded": true
+    },
+    {
+      "run": "run13_forest",
+      "checkpoint_hash_verified": true,
+      "trained_weights_changed": true,
+      "test_predictions_verified": true,
+      "reserved_data_excluded": true
+    },
+    {
+      "run": "run14_m16_firecrackers",
+      "checkpoint_hash_verified": true,
+      "trained_weights_changed": true,
+      "test_predictions_verified": true,
+      "reserved_data_excluded": true
+    }
+  ],
+  "same_reserved_800_files_and_threshold": true,
+  "all_806_new_test_clips_excluded_from_final_seen_hashes": true,
+  "reserved_800_excluded_from_final_seen_hashes": true,
+  "final_metrics_independently_verified": true
+}

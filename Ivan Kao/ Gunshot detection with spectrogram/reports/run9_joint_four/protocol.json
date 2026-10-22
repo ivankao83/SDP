@@ -1,0 +1,35 @@
+{
+  "initialization": "runs/run8_urban/best.pt",
+  "initialization_sha256": "637b67d68d0c52e622cac805f463a896b10778bbb3df0a6b6752704c6f64ab05",
+  "mode": "joint continued training on four datasets",
+  "counts": {
+    "train": {
+      "SESA": 383,
+      "FSDD": 2000,
+      "EDGE": 96,
+      "UrbanSound8K": 263
+    },
+    "val": {
+      "SESA": 96,
+      "FSDD": 500,
+      "EDGE": 24,
+      "UrbanSound8K": 55
+    },
+    "test": {
+      "SESA": 105,
+      "FSDD": 500,
+      "EDGE": 89,
+      "UrbanSound8K": 110
+    }
+  },
+  "test_used_for_optimization_or_selection": false,
+  "external_test_only_datasets_loaded": false,
+  "shotspotter_used_for_training_or_selection": false,
+  "training": "Every training file visited once per epoch; inverse domain/class loss weighting.",
+  "knowledge_retention": "Inherited weights; frozen BN statistics; teacher soft-target regularization weight 0.05, temperature 2.",
+  "selection": "Prefer <=5% false positives in every negative validation domain; maximize 0.6 mean + 0.4 minimum of per-domain positive recall and negative rejection.",
+  "trained_epochs_only": true,
+  "learning_rate": 0.0001,
+  "seed": 909,
+  "SESA_limitation": "Original Freesound source IDs unavailable; file/named-group separation does not prove all shared-source independence."
+}

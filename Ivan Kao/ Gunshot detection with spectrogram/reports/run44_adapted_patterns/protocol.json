@@ -1,0 +1,17 @@
+{
+  "previous_bundle": "runs/run43_pattern_heads/bundle.json",
+  "initialization": "runs/run14_m16_firecrackers/best.pt",
+  "initialization_sha256": "d772ef4312dd46566a7b29155d11881ac1c1a7b3efc82aa6267e0daf5815985b",
+  "cnn_reset": false,
+  "frozen_previous_full_system_teacher": true,
+  "training_rows": 6595,
+  "validation_rows": 2832,
+  "epochs": 8,
+  "draws_per_epoch": 4000,
+  "learning_rate": 3e-05,
+  "seed": 4444,
+  "loss": "0.85 labelled BCE + 0.15 frozen earlier full-system probability BCE; balanced domain/class replay.",
+  "selection": "Lowest support-shrunk macro-domain/class validation log loss; validation only, best trained epoch.",
+  "baseline_used_for_training_validation_or_epoch_selection": false,
+  "baseline_not_evaluated_by_this_script": true
+}

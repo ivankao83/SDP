@@ -1,0 +1,44 @@
+{
+  "added_trees": 191,
+  "threshold": 0.39999999999999997,
+  "quality": [
+    true,
+    0.9535980049461972
+  ],
+  "validation_selection": {
+    "added_trees": 191,
+    "retention_met": true,
+    "validation_quality": 0.9535980049461972,
+    "threshold": 0.39999999999999997,
+    "strata": {
+      "AudioMNIST:0": 0.9999983310699463,
+      "CMURealSounds:0": 0.8666666746139526,
+      "DCASEOffice:0": 0.9772723913192749,
+      "DEMAND:0": 0.9888901710510254,
+      "EDGE:1": 0.9166668057441711,
+      "FSDD:0": 0.9999942183494568,
+      "IndependentBagPops:0": 0.0,
+      "IndependentBalloonCollection:0": 0.6666666865348816,
+      "IndependentBalloonPops:0": 1.0,
+      "IndependentClaps:0": 0.8750001192092896,
+      "IndependentPackaging:0": 0.9999996423721313,
+      "LabImpulses:0": 1.0,
+      "M16Firecrackers:0": 0.9230769276618958,
+      "M16Firecrackers:1": 1.0000001192092896,
+      "MIMIIValve:0": 0.9999993443489075,
+      "ReaLISEDIndoor:0": 0.9958577156066895,
+      "RealImpactMeasured:0": 0.9999996423721313,
+      "SESA:0": 0.9249994158744812,
+      "SESA:1": 0.875,
+      "SpeechCommands:0": 0.9999992251396179,
+      "TropicalForest:0": 0.849999725818634,
+      "TropicalForest:1": 0.9749996066093445,
+      "UrbanSound8K:0": 0.9772723913192749,
+      "UrbanSound8K:1": 0.8181818723678589,
+      "VietnamForest:0": 0.9473680853843689,
+      "VietnamForest:1": 0.9545456767082214,
+      "VocalSound:0": 0.9497705698013306
+    }
+  },
+  "selected_before_reserved_prediction": true
+}

@@ -1,0 +1,627 @@
+dataset,path,true_label,probability,predicted_label
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/157970.wav,1,0.5280670112647358,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/553820.wav,1,0.9670923531219396,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/569309.wav,1,0.8329821404216835,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/410551.wav,1,0.9842641752685548,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/174293.wav,1,0.9457838667567617,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/368806.wav,1,0.968877588286695,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/417345.wav,1,0.9856447251595845,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/174295.wav,1,0.6602153292184739,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/410399.wav,1,0.8469240773939257,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/410263.wav,1,0.9565803249732501,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/19515.wav,1,0.7820860867418103,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/174287.wav,1,0.796452169376104,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/427594.wav,1,0.923052286198991,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/148839.wav,1,0.954868595254148,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/33450.wav,1,0.9659635117658615,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/169261.wav,1,0.4257847495661969,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/388051.wav,1,0.5609561835565067,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/336860.wav,1,0.9854558688841975,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/174286.wav,1,0.10032016422560726,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/85571.wav,1,0.6303747411960953,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/431824.wav,1,0.26946503343197403,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/494331.wav,1,0.17187899800598347,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/231243.wav,1,0.9772782026098816,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/431836.wav,1,0.9329990393547596,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/435407.wav,1,0.9495140427267723,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/156897.wav,1,0.40708851155001374,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/431833.wav,1,0.9332898872929629,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/174288.wav,1,0.9220568756779816,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/452154.wav,1,0.8224770598994133,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/231244.wav,1,0.9587508054298148,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/213925.wav,1,0.26908236438844507,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/427597.wav,1,0.9363778117266135,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/476433.wav,1,0.7550218049054976,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/427596.wav,1,0.9151256697144168,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/174292.wav,1,0.9327309253148525,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/43751.wav,1,0.9743166746607193,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/274745.wav,1,0.9889665163661681,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/431823.wav,1,0.9546262080389416,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/431821.wav,1,0.18307557480290473,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/169170.wav,1,0.25905503138036884,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/565234.wav,1,0.36346094951016533,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/353244.wav,1,0.3876164511956649,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/174291.wav,1,0.39148763093025724,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/595048.wav,1,0.14162236051280758,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/377787.wav,1,0.9671747884319816,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/174289.wav,1,0.9472860935492209,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/493113.wav,1,0.560169299268168,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/77726.wav,1,0.7528707246741826,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/377788.wav,1,0.9695878785551795,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/454560.wav,1,0.9628704240096049,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/431826.wav,1,0.9596966232042602,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/476239.wav,1,0.9494998151957323,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/460851.wav,1,0.006830206493985371,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/255217.wav,1,0.5952661265027284,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/377789.wav,1,0.8956714680770381,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/592264.wav,1,0.8544680463326146,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/432606.wav,1,0.9141773018106824,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/19514.wav,1,0.7089665431859383,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/259185.wav,0,0.012551330602529614,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/347769.wav,0,0.012245302821784772,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/445783.wav,0,0.027077570426774975,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/640277.wav,0,0.009313881104408195,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/655136.wav,0,0.01839831631785175,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/17290.wav,0,0.09313044355146628,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/367067.wav,0,0.7195664006808923,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/370315.wav,0,0.09385972188492515,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/362277.wav,0,0.03899200647364604,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/463691.wav,0,0.047544733918473456,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/634141.wav,0,0.01104569589200301,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/248178.wav,0,0.023006971174919927,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/573824.wav,0,0.018176892313079635,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/91033.wav,0,0.08403337348603057,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/585077.wav,0,0.40896111989462186,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/345.wav,0,0.6829207080117776,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/650727.wav,0,0.07023115899869925,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/220941.wav,0,0.03692985320043706,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/269711.wav,0,0.5086952408809364,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/557368.wav,0,0.032644805085066834,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/463924.wav,0,0.9172397013634838,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/572104.wav,0,0.018349695689939702,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/444163.wav,0,0.09454268360514041,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/333387.wav,0,0.2659508430810351,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/75200.wav,0,0.07191642563046405,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/336595.wav,0,0.03532175116814859,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/98087.wav,0,0.021358677263920448,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/516106.wav,0,0.01419363743211189,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/634164.wav,0,0.0065964982885052415,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/630399.wav,0,0.017088832167696195,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/538068.wav,0,0.33775238663612994,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/191919.wav,0,0.22799376507516633,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/504868.wav,0,0.07535286123329975,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/508199.wav,0,0.02027095831812916,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/323392.wav,0,0.0400878846518095,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/563900.wav,0,0.01924374972367777,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/170519.wav,0,0.11431874164917367,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/619593.wav,0,0.027970208068772436,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/449461.wav,0,0.034493319368181036,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/104089.wav,0,0.036332969676847925,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/23116.wav,0,0.035204180210990775,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/627317.wav,0,0.02375203410918172,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/561020.wav,0,0.05161430230343579,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/345343.wav,0,0.7117652071735904,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/561144.wav,0,0.011866851292873144,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/321603.wav,0,0.112770395167802,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/238212.wav,0,0.019129358215222908,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/167140.wav,0,0.03877947056431396,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/463500.wav,0,0.19457012076606567,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/444471.wav,0,0.05165054788618381,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/116769.wav,0,0.009800714533004117,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/149474.wav,0,0.11544922316820896,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/458535.wav,0,0.037288599311238325,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/565138.wav,0,0.8607376641358345,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/101263.wav,0,0.02366226595851555,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/556767.wav,0,0.02722943946133088,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/385920.wav,0,0.05739270703167321,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/337272.wav,0,0.03258623147697459,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/117172.wav,0,0.08079780560357885,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/2532.wav,0,0.11605679882609159,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/131346.wav,0,0.0255194752883689,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/537871.wav,0,0.13311078194267717,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/109188.wav,0,0.1475831351418211,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/544885.wav,0,0.01187447466201788,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/537841.wav,0,0.11074561867152868,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/185262.wav,0,0.01885723080528233,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/405400.wav,0,0.17070066444088727,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/421711.wav,0,0.06490853272319652,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/52291.wav,0,0.020174866109666772,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/485344.wav,0,0.0317657644931469,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/471903.wav,0,0.014894870851940847,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/455212.wav,0,0.042426570600717195,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/7969.wav,0,0.5087525038685118,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/445284.wav,0,0.02426380095507798,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/52236.wav,0,0.022411475235135807,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/385919.wav,0,0.02715046091232769,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/115921.wav,0,0.03714799065771241,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/635121.wav,0,0.09500541303787208,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/257699.wav,0,0.056212727402087576,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/457498.wav,0,0.06463566877606573,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/493132.wav,0,0.11819112609064941,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/259233.wav,0,0.06378442815666929,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/232953.wav,0,0.0668789499778471,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/538498.wav,0,0.0968154755194277,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/593176.wav,0,0.2885294799237257,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/242220.wav,0,0.014607964947642956,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/594987.wav,0,0.014106979786862683,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/445365.wav,0,0.019580418089349263,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/620061.wav,0,0.01907178315585592,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/467994.wav,0,0.09191264674342893,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/379023.wav,0,0.015135371968864109,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/9568.wav,0,0.7217051924812582,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/583717.wav,0,0.038937620287863586,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/594473.wav,0,0.02217662712640726,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/626143.wav,0,0.07897925615969512,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/131210.wav,0,0.8502041033455554,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/92979.wav,0,0.06296030365330192,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/454710.wav,0,0.12416010740944103,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/503033.wav,0,0.1890873781755663,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/535105.wav,0,0.09576034388518279,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/501942.wav,0,0.02676706506010406,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/437258.wav,0,0.023765328696716326,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/505745.wav,0,0.012393225248273238,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/594456.wav,0,0.09169949175035087,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/461887.wav,0,0.2887582605680668,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/489447.wav,0,0.15922265671181007,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/276924.wav,0,0.06355559295770394,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/264430.wav,0,0.08669800214647058,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/390161.wav,0,0.04541024150229422,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/529694.wav,0,0.015334658592136287,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/240279.wav,0,0.05219073693517969,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/399878.wav,0,0.04206583534796167,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/130326.wav,0,0.09219290974992318,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/431217.wav,0,0.022423618196842847,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/45467.wav,0,0.7986793743666073,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/509832.wav,0,0.958515854459804,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/199924.wav,0,0.9193762187833759,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/261334.wav,0,0.9627818106036242,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/241203.wav,0,0.036761298904691646,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/492405.wav,0,0.4891007467553491,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/266342.wav,0,0.019907093372882954,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/325955.wav,0,0.017430776810088894,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/529455.wav,0,0.016050500848071962,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/506874.wav,0,0.01931793268344725,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/171458.wav,0,0.9040466570087071,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/261500.wav,0,0.18700220981569055,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/478991.wav,0,0.12020526154483857,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/516108.wav,0,0.010288583080123452,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/500025.wav,0,0.02492421777789598,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/580986.wav,0,0.11622495778182845,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/345345.wav,0,0.8564788807610498,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/327984.wav,0,0.6552723296147425,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/626145.wav,0,0.06083357561183057,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/115920.wav,0,0.0199185563322348,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/339031.wav,0,0.03457446765749921,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/632768.wav,0,0.025233274898439198,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/629988.wav,0,0.3607798926978928,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/645628.wav,0,0.031076331978821627,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/155671.wav,0,0.03418146865161814,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/276578.wav,0,0.021947925804833027,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/259918.wav,0,0.036007495194323225,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/263678.wav,0,0.04316054618314144,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/351776.wav,0,0.06118816782164605,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/640275.wav,0,0.011363983810811246,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/554063.wav,0,0.3019570301653725,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/154848.wav,0,0.016120488167649882,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/568964.wav,0,0.017131390090798473,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/609083.wav,0,0.01790771275331998,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/460906.wav,0,0.040142246281340575,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/593453.wav,0,0.020395199323761926,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/399880.wav,0,0.04322125644929628,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/534290.wav,0,0.015546615035323917,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/102887.wav,0,0.05149412635131702,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/506497.wav,0,0.6638353078791542,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/458015.wav,0,0.05101640499122902,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/575521.wav,0,0.22877786534361694,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/615974.wav,0,0.6982678238785681,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/497135.wav,0,0.2301574755452541,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/86126.wav,0,0.17031378160484123,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/108481.wav,0,0.05668772722646098,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/606949.wav,0,0.19391822307747852,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/43672.wav,0,0.02371539113608127,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/645910.wav,0,0.16606769491815312,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/456800.wav,0,0.6979189421163235,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/449475.wav,0,0.08384163680516173,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/449480.wav,0,0.08753850682545579,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/385918.wav,0,0.07969013606043969,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/218337.wav,0,0.021472341927323575,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/157670.wav,0,0.017831772708679583,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/149465.wav,0,0.0824430158333817,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/561423.wav,0,0.03661216572791207,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/620455.wav,0,0.130455159155477,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/592454.wav,0,0.11536603695969067,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/444209.wav,0,0.03622970727847345,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/344964.wav,0,0.47743952853360416,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/324891.wav,0,0.11386818717739777,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/262922.wav,0,0.0541116011594779,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/490627.wav,0,0.06679297392745358,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/219321.wav,0,0.10389482885890303,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/209991.wav,0,0.06250353854242212,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/173136.wav,0,0.04934748674740791,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/550908.wav,0,0.4872419345285441,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/450207.wav,0,0.52582799587598,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/593588.wav,0,0.015478568069372343,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/88568.wav,0,0.05281274277413278,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/442959.wav,0,0.05213054771013003,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/160133.wav,0,0.7285246512368398,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/626144.wav,0,0.03740561391080145,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/619592.wav,0,0.34772291381285864,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/345344.wav,0,0.7495622546361715,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/348566.wav,0,0.03491747971098355,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/508869.wav,0,0.01515919110766333,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/330675.wav,0,0.016136219980629172,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/577971.wav,0,0.5651327066035255,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/594632.wav,0,0.20775837508410555,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/220371.wav,0,0.02656769031550983,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/452122.wav,0,0.2551766111162632,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/71019.wav,0,0.7772299684621142,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/558219.wav,0,0.04743902302402026,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/499470.wav,0,0.03569672484364364,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/537109.wav,0,0.03706304525261858,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/508639.wav,0,0.11732735044404224,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/570623.wav,0,0.021826425159161486,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/360959.wav,0,0.11347824846985725,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/412055.wav,0,0.024685132768215236,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/232564.wav,0,0.585231939246446,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/177853.wav,0,0.010435064073913836,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/331994.wav,0,0.03526409020443356,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/112279.wav,0,0.032707390537845826,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/632794.wav,0,0.10132599477162116,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/205738.wav,0,0.12041087713492732,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/339483.wav,0,0.21754986251606204,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/257842.wav,0,0.847562785225831,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/529242.wav,0,0.04360023377243416,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/275518.wav,0,0.05726390406098821,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/631652.wav,0,0.015494926559347547,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/456247.wav,0,0.0184385029273721,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/557361.wav,0,0.34483982369874255,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/131311.wav,0,0.027086908116878663,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/655540.wav,0,0.014451369632355621,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/31996.wav,0,0.03984889979889744,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/415295.wav,0,0.15771517012239922,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/533196.wav,0,0.062473480763455436,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/509942.wav,0,0.02633881515241862,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/644045.wav,0,0.39867918396338525,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/387539.wav,0,0.1807893685163427,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/176151.wav,0,0.9120640057566791,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/451644.wav,0,0.016381224128747665,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/449483.wav,0,0.12464643762767581,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/564039.wav,0,0.01500786972158911,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/76408.wav,0,0.046522471421810443,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/186904.wav,0,0.22250505084609698,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/102886.wav,0,0.023115092500793518,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/560000.wav,0,0.05244737599453252,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/477368.wav,0,0.047332738571488786,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/515482.wav,0,0.06922971070631159,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/593671.wav,0,0.01859134511539139,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/634110.wav,0,0.028202858015012933,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/14163.wav,0,0.1956048047209078,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/67226.wav,0,0.04268062900376525,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/254193.wav,0,0.13995917789566728,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/653574.wav,0,0.021544183470302524,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/346688.wav,0,0.017953602244719435,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/71231.wav,0,0.018659597545390146,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/154701.wav,0,0.02321689102709177,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/353765.wav,0,0.01432476384494396,0
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/69210.wav,0,0.7317093595147872,1
+IndependentFieldMixed,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_independent_firearms/IndependentFieldMixed/547647.wav,0,0.024645605567046182,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (1).wav,1,0.7529889238557713,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (10).wav,1,0.18003276574198618,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (11).wav,1,0.6952592073938245,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (12).wav,1,0.6603791953849059,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (13).wav,1,0.8003459133206324,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (14).wav,1,0.062495455203481626,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (15).wav,1,0.6014293254174552,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (16).wav,1,0.13440216909960034,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (17).wav,1,0.5708158928009555,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (18).wav,1,0.4049911473885096,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (19).wav,1,0.4077442856810035,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (2).wav,1,0.20508496438251322,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (20).wav,1,0.5314927151804819,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (21).wav,1,0.10840877109734559,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (22).wav,1,0.05911546664164723,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (23).wav,1,0.5718850746739587,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (24).wav,1,0.2608784071227576,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (25).wav,1,0.5101621140821937,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (26).wav,1,0.6442749198329755,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (27).wav,1,0.06881072142021713,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (28).wav,1,0.5582906697231907,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (29).wav,1,0.29119155854379175,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (3).wav,1,0.5558530700657104,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (30).wav,1,0.6860886289336452,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (31).wav,1,0.3106316620177773,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (32).wav,1,0.3363855941118441,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (33).wav,1,0.5992301109256275,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (34).wav,1,0.5546025067187925,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (35).wav,1,0.5678953281233481,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (36).wav,1,0.7151345036399417,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (37).wav,1,0.5124536036819103,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (38).wav,1,0.5650652092614514,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (39).wav,1,0.7044588300270604,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (4).wav,1,0.68366007987299,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (40).wav,1,0.8603272825113948,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (41).wav,1,0.48770453905630795,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (42).wav,1,0.8078273039794749,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (43).wav,1,0.6891204494586307,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (44).wav,1,0.6249438722448961,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_12__3 (45).wav,1,0.7911685132993399,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (1).wav,1,0.9194453446572941,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (10).wav,1,0.06389255714791596,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (11).wav,1,0.10305472051213602,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (12).wav,1,0.2441657533355996,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (13).wav,1,0.6381688907100997,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (14).wav,1,0.02819396596324013,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (15).wav,1,0.9194416275505104,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (16).wav,1,0.16814149418794516,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (17).wav,1,0.11632849574497331,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (18).wav,1,0.18544842084944185,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (19).wav,1,0.19880571064008412,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (2).wav,1,0.9114293848647659,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (20).wav,1,0.3910275163265522,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (21).wav,1,0.2483447357955043,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (22).wav,1,0.30961479309171913,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (23).wav,1,0.5239183001380181,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (24).wav,1,0.3017394995467157,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (25).wav,1,0.13420038669355694,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (26).wav,1,0.10607247592644703,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (27).wav,1,0.11311167714311463,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (28).wav,1,0.3343721183444325,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (29).wav,1,0.1462908749387068,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (3).wav,1,0.4209126269778678,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (30).wav,1,0.14637839567539807,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (31).wav,1,0.6148856180653353,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (32).wav,1,0.2513711418625212,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (33).wav,1,0.20722716832182686,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (34).wav,1,0.14509839729066096,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (35).wav,1,0.08192747967215655,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (36).wav,1,0.1253964573677177,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (37).wav,1,0.32115712165561205,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (38).wav,1,0.15117725478019323,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (39).wav,1,0.18840300610220465,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (4).wav,1,0.7855295398625035,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (40).wav,1,0.11770899551464414,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (41).wav,1,0.706841123064077,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (42).wav,1,0.9312512095893195,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (43).wav,1,0.4828049009740647,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (44).wav,1,0.7662856310794395,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/AK_47__1 (45).wav,1,0.4180062023614761,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (1).wav,1,0.9547336719901847,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (10).wav,1,0.9462253600501885,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (100).wav,1,0.9391959800401238,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (11).wav,1,0.9696765065867985,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (12).wav,1,0.937963563987134,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (13).wav,1,0.8814131583568777,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (14).wav,1,0.9649584287967711,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (15).wav,1,0.8650477279639335,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (16).wav,1,0.9713781038740986,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (17).wav,1,0.9074325862087412,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (18).wav,1,0.9751935147229596,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (19).wav,1,0.8968115482271322,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (2).wav,1,0.9348401708327575,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (20).wav,1,0.9432609340092013,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (21).wav,1,0.8762653074392256,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (22).wav,1,0.9311838831712914,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (23).wav,1,0.9737586264288405,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (24).wav,1,0.9607001672226264,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (25).wav,1,0.9769132639537357,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (26).wav,1,0.939091435842315,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (27).wav,1,0.8853952034524366,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (28).wav,1,0.20524651797741883,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (29).wav,1,0.12750872780253458,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (3).wav,1,0.9485576156773694,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (30).wav,1,0.949939060533797,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (31).wav,1,0.12117739913128087,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (32).wav,1,0.10620497687885228,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (33).wav,1,0.9161120591889922,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (34).wav,1,0.5604366161005803,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (35).wav,1,0.7416433885950542,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (36).wav,1,0.034644802823321975,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (37).wav,1,0.9695118284736943,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (38).wav,1,0.9265580887999464,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (39).wav,1,0.9204188858754255,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (4).wav,1,0.9213546930836266,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (40).wav,1,0.9130104257047931,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (41).wav,1,0.9631284849368985,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (42).wav,1,0.9712106948002521,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (43).wav,1,0.9274709451724977,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/IMI_Desert_Eagle__2 (44).wav,1,0.9662883443725037,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (1).wav,1,0.8785747944121018,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (10).wav,1,0.7930576326189682,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (100).wav,1,0.961074942531141,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (11).wav,1,0.8877595426144076,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (12).wav,1,0.907741423298639,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (13).wav,1,0.9522568970802404,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (14).wav,1,0.9038765129984337,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (15).wav,1,0.9319986120765621,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (16).wav,1,0.8763133434723388,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (17).wav,1,0.9576609972796148,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (18).wav,1,0.9352008000932985,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (19).wav,1,0.7831929546893027,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (2).wav,1,0.7590799379359618,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (20).wav,1,0.9304539331695223,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (21).wav,1,0.8830560510368013,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (22).wav,1,0.955207135566876,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (23).wav,1,0.9332128143007963,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (24).wav,1,0.9048238012027144,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (25).wav,1,0.15583753910561104,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (26).wav,1,0.8524028398258721,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (27).wav,1,0.28226654690644465,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (28).wav,1,0.9633325842681397,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (29).wav,1,0.6519972376938166,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (3).wav,1,0.08474674245140891,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (30).wav,1,0.9527353714246853,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (31).wav,1,0.8776040398871354,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (32).wav,1,0.904988156763358,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (33).wav,1,0.9054856512519807,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (34).wav,1,0.8764571702270904,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (35).wav,1,0.9447131917746868,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (36).wav,1,0.9532408042577467,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (37).wav,1,0.8571076200235341,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (38).wav,1,0.7431034404960586,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (39).wav,1,0.7427675734596357,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (4).wav,1,0.06027849645848074,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (40).wav,1,0.7849482944746197,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (41).wav,1,0.7186695492285762,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (42).wav,1,0.1959972480567595,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (43).wav,1,0.8189045874908583,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M16__5 (44).wav,1,0.9477749427372643,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (1).wav,1,0.6345870189617033,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (10).wav,1,0.9114541947997493,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (11).wav,1,0.8564193857550408,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (12).wav,1,0.15074156160536611,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (13).wav,1,0.47836633007151547,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (14).wav,1,0.4206642027492681,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (15).wav,1,0.6915002549011791,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (16).wav,1,0.9390438603161831,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (17).wav,1,0.8729678596837185,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (18).wav,1,0.9471722316155409,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (19).wav,1,0.8835777267445215,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (2).wav,1,0.5599410364033391,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (20).wav,1,0.8267326264109871,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (21).wav,1,0.9049094730818701,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (22).wav,1,0.8351940840989069,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (23).wav,1,0.7993449455201558,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (24).wav,1,0.8506155055663205,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (25).wav,1,0.8170181991589704,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (26).wav,1,0.8975845670553674,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (27).wav,1,0.771007695660163,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (28).wav,1,0.8969888092429172,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (29).wav,1,0.9325983096675601,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (3).wav,1,0.6104444103115956,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (30).wav,1,0.7407708358511411,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (31).wav,1,0.9633359850146757,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (32).wav,1,0.9225168515788756,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (33).wav,1,0.9482491280804064,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (34).wav,1,0.9768385899673069,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (35).wav,1,0.7939683079844293,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (36).wav,1,0.6948340836215966,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (37).wav,1,0.6667383303893756,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (38).wav,1,0.9138336067846669,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (39).wav,1,0.6207112343978268,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (4).wav,1,0.6628683270363589,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (40).wav,1,0.6729991948882956,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (41).wav,1,0.5849562531366641,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (42).wav,1,0.9523701282042258,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (43).wav,1,0.9690140216890025,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (44).wav,1,0.9457230967671005,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/M249__6 (45).wav,1,0.8398824293754437,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (1).wav,1,0.39864123186003964,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (10).wav,1,0.040164414489114196,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (100).wav,1,0.049937005580603384,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (11).wav,1,0.8840865883427919,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (12).wav,1,0.35338013841709115,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (13).wav,1,0.6481582247229148,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (14).wav,1,0.06890517626335439,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (15).wav,1,0.04513368014240291,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (16).wav,1,0.19166447147841797,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (17).wav,1,0.12564701943985165,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (18).wav,1,0.7377945848768344,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (19).wav,1,0.9026546591587852,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (2).wav,1,0.8971567883337969,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (20).wav,1,0.7175480590049016,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (21).wav,1,0.9695111351377252,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (22).wav,1,0.7112400768871042,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (23).wav,1,0.06701732022011817,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (24).wav,1,0.07819065925546421,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (25).wav,1,0.16929291102349767,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (26).wav,1,0.08623736748215548,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (27).wav,1,0.08088998793018594,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (28).wav,1,0.07776702504863293,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (29).wav,1,0.05116730625855708,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (3).wav,1,0.9267196951081754,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (30).wav,1,0.026203987451760672,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (31).wav,1,0.8016430311573801,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (32).wav,1,0.7393161764406485,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (33).wav,1,0.302999262840082,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (34).wav,1,0.11532628453528852,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (35).wav,1,0.16655985938805878,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (36).wav,1,0.7158387018163866,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (37).wav,1,0.2565589644418753,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (38).wav,1,0.3744314887043811,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (39).wav,1,0.6358659318389356,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (4).wav,1,0.8259669260772065,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (40).wav,1,0.27302492678526213,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (41).wav,1,0.6230151172290955,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (42).wav,1,0.43680109584347326,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (43).wav,1,0.7868186044554795,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MG_42__7 (44).wav,1,0.6159270646949218,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (1).wav,1,0.1426836406803744,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (10).wav,1,0.8421128184362336,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (100).wav,1,0.9738836173426617,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (11).wav,1,0.7562812078033665,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (12).wav,1,0.6076063826855977,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (13).wav,1,0.09518080822443961,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (14).wav,1,0.8917033257143646,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (15).wav,1,0.9302956205057915,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (16).wav,1,0.9443306793719594,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (17).wav,1,0.1433499967338752,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (18).wav,1,0.8556095136513777,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (19).wav,1,0.04599597739257649,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (2).wav,1,0.8702114922449877,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (20).wav,1,0.09910581139138855,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (21).wav,1,0.045689153272883185,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (22).wav,1,0.14389106047877293,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (23).wav,1,0.3924059170447671,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (24).wav,1,0.1307266346241306,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (25).wav,1,0.704883662511794,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (26).wav,1,0.26408397328083294,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (27).wav,1,0.7663232248380633,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (28).wav,1,0.12237109532199582,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (29).wav,1,0.9528465405820628,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (3).wav,1,0.9040204017554154,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (30).wav,1,0.7119353834744389,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (31).wav,1,0.7613891191586917,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (32).wav,1,0.8564732367689585,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (33).wav,1,0.9299743327657041,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (34).wav,1,0.8867844694991749,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (35).wav,1,0.9564838960327182,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (36).wav,1,0.8783987641395841,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (37).wav,1,0.8313919727976942,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (38).wav,1,0.8486924039275929,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (39).wav,1,0.8525019546642026,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (4).wav,1,0.6814778707842009,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (40).wav,1,0.1643029787817448,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (41).wav,1,0.8953373718461674,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (42).wav,1,0.9223639511431686,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (43).wav,1,0.8909784761242399,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/MP5__8 (44).wav,1,0.30755590644234865,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (1).wav,1,0.4381389038804352,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (10).wav,1,0.2522494274811299,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (11).wav,1,0.2002302650368697,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (12).wav,1,0.060746537297640804,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (13).wav,1,0.08614084751454289,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (14).wav,1,0.13405631491059206,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (15).wav,1,0.4878328324293025,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (16).wav,1,0.334967973269913,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (17).wav,1,0.8151642041464451,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (18).wav,1,0.8949065271134418,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (19).wav,1,0.2443272693816765,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (2).wav,1,0.5555674788150557,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (20).wav,1,0.10813769668613293,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (21).wav,1,0.3631361965247427,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (22).wav,1,0.47404392204942947,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (23).wav,1,0.08031905353296184,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (24).wav,1,0.13930874785865388,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (25).wav,1,0.2494243501294358,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (26).wav,1,0.1689867772453123,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (27).wav,1,0.4757691355091366,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (28).wav,1,0.4312430068890211,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (29).wav,1,0.1604582476127297,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (3).wav,1,0.18922439656144843,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (30).wav,1,0.2593724836624973,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (31).wav,1,0.09219212219719086,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (32).wav,1,0.14160374787189126,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (33).wav,1,0.20151023889180203,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (34).wav,1,0.23751647597770187,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (35).wav,1,0.1293829273247515,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (36).wav,1,0.20556161055841984,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (37).wav,1,0.08116101141571055,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (38).wav,1,0.1558161362330779,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (39).wav,1,0.16779402855120226,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (4).wav,1,0.14550764297105345,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (40).wav,1,0.29598149223422454,1
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (41).wav,1,0.10903493021265942,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (42).wav,1,0.101762440814587,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (43).wav,1,0.2375042453314694,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (44).wav,1,0.2272854619735127,0
+AydemirGunshots,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run42_aydemir/AydemirGunshots/Zastava_M92__9 (45).wav,1,0.14489463030997288,0

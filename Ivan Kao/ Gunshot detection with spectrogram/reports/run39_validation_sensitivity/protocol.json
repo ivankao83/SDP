@@ -1,0 +1,12 @@
+{
+  "previous_bundle": "runs/run38_independent_pops/bundle.json",
+  "training_performed": false,
+  "cnn_updated": false,
+  "refiner_updated": false,
+  "minimum_validation_gunshot_recall": 0.97,
+  "selection": "Largest threshold on the fixed .005 grid meeting the prescribed pooled validation recall.",
+  "validation_rows": 2729,
+  "validation_gunshots": 137,
+  "reserved_used_for_training_validation_or_threshold_selection": false,
+  "baseline_used_for_adaptive_stopping_and_strategy_feedback": true
+}

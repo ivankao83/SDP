@@ -1,0 +1,24 @@
+{
+  "previous_bundle": "runs/run21_vietnam/bundle.json",
+  "previous_refiner_sha256": "af1bf06c97dc50e5dc35222d06868402020bfb6df9c1cc63f67dfa6b53619ada",
+  "new_dataset": "RealImpactMeasured",
+  "dataset_recordings": 600,
+  "new_splits": {
+    "train": 300,
+    "val": 100,
+    "test": 200
+  },
+  "training_rows_including_prior_variants": 4097,
+  "validation_rows": 2073,
+  "threshold": 0.20999999999999996,
+  "cnn_updated": false,
+  "continued_refiner_training": true,
+  "maximum_added_trees": 120,
+  "selection": "Validation only; macro-domain quality with earlier-domain retention.",
+  "positive_validation_retention_tolerance": 0.0,
+  "negative_validation_retention_tolerance": 0.05,
+  "test_used_for_training_or_selection": false,
+  "reserved_used_for_development": false,
+  "seed": 1920,
+  "split_policy": "Entire physical objects separated across train, validation and test; shared hammer-strike microphone channels stay within the object split."
+}

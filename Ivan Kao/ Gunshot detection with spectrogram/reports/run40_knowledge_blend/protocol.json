@@ -1,0 +1,22 @@
+{
+  "previous_bundle": "runs/run38_independent_pops/bundle.json",
+  "training_performed": false,
+  "cnn_updated": false,
+  "refiner_updated": true,
+  "minimum_validation_gunshot_recall": 0.97,
+  "selection": "Largest threshold on the fixed .005 grid meeting prescribed pooled validation recall. Optional anchor blend selected by maximum validation negative rejection.",
+  "anchor_bundle": "runs/run20_vocal_sound/bundle.json",
+  "anchor_weight_candidates": [
+    0.0,
+    0.1,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "validation_rows": 2729,
+  "validation_gunshots": 137,
+  "reserved_used_for_training_validation_or_threshold_selection": false,
+  "baseline_used_for_adaptive_stopping_and_strategy_feedback": true,
+  "refiner_weights_retrained": false
+}

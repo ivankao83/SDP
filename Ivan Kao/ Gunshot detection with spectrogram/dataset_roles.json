@@ -1,0 +1,38 @@
+{
+  "policy": "test_only",
+  "training_allowed": false,
+  "validation_allowed": false,
+  "threshold_tuning_allowed": false,
+  "checkpoint_selection_allowed": false,
+  "predictions_generated": true,
+  "root": "dataset/test_only_reserve",
+  "locked_before_first_prediction_checkpoint": "runs/run9_joint_four/best.pt",
+  "datasets": [
+    {
+      "name": "FSD50K_mixed",
+      "recordings": 100,
+      "type": "mixed",
+      "role": "test_only",
+      "source_url": "https://zenodo.org/records/4060432"
+    },
+    {
+      "name": "GunshotTriangulation",
+      "recordings": 88,
+      "type": "positive_only",
+      "role": "test_only",
+      "source_url": "https://hearbenchmark.com/hear-tasks.html"
+    },
+    {
+      "name": "PlasticBagPop",
+      "recordings": 612,
+      "type": "negative_only",
+      "role": "test_only",
+      "source_url": "https://github.com/rbsingh13/Plastic-Bag-Pop-sounds"
+    }
+  ],
+  "evaluation_report": "reports/run49_validation_balance/external_test/results.json",
+  "within_run_model_and_threshold_selection_allowed": false,
+  "adaptive_stopping_used": true,
+  "historical_strategy_feedback_used": true,
+  "unbiased_final_test": false
+}

@@ -1,0 +1,20 @@
+{
+  "checkpoint": "runs/run14_m16_firecrackers/best.pt",
+  "checkpoint_sha256": "d772ef4312dd46566a7b29155d11881ac1c1a7b3efc82aa6267e0daf5815985b",
+  "manifest_sha256": "1d6312603fd2f5f639608629b098bde600d071e479dabbf62559a95350173d27",
+  "threshold": 0.20999999999999996,
+  "recordings": 800,
+  "training_performed": false,
+  "validation_performed": false,
+  "threshold_tuning_performed": false,
+  "checkpoint_selection_performed": false,
+  "prediction_rule": "learned CNN/impulse-feature classifier probability > frozen threshold",
+  "limitations": [
+    "FSD50K sample excludes known ESC-50/UrbanSound8K IDs and uploaders; original SESA IDs unavailable.",
+    "Gunshot Triangulation contains 88 microphone clips of 22 firing events.",
+    "Plastic-bag microphone/event grouping is unavailable."
+  ],
+  "model_type": "cnn_with_impulse_refiner",
+  "bundle": "runs/run20_vocal_sound/bundle.json",
+  "refiner_sha256": "70deab6bf08457b3a660098833907b794b2ef661a79f309baca64fb8228bc69d"
+}

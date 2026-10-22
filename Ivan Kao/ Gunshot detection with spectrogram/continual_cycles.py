@@ -55,6 +55,8 @@ class Features(Dataset):
 def loader(rows, train=False, draws=None):
     sampler = None
     if train:
+        from training_data_policy import assert_development_allowed
+        assert_development_allowed(rows)
         count = Counter((r['domain'], int(r['label'])) for r in rows)
         weights = [(2 if r.get('new_cycle') else 1) / count[(r['domain'], int(r['label']))] for r in rows]
         sampler = WeightedRandomSampler(weights, min(len(rows),draws) if draws else len(rows), replacement=True)
@@ -254,6 +256,8 @@ def main():
     splits={s:[{**r,'new_cycle':False} for r in replay[s]]+
                [{**r,'new_cycle':False} for r in previous_cycles if r['split']==s]+
                [r for r in new if r['split']==s] for s in ['train','val']}
+    from training_data_policy import assert_development_allowed
+    assert_development_allowed(splits['train'] + splits['val'])
     g.write_json(a.out/'training_manifest.json',splits)
     g.write_json(a.out/'cumulative_new_data.json',previous_cycles+new)
     protocol={'dataset':a.dataset,'previous_checkpoint':str(a.previous),'previous_sha256':checksum,

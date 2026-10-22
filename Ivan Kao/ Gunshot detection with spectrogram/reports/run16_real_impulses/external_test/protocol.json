@@ -1,0 +1,17 @@
+{
+  "checkpoint": "runs/run16_real_impulses/best.pt",
+  "checkpoint_sha256": "aa257c4d29bbd4654880e033290e221be7b35c088f9561fdfd24fe57ae6dbb7c",
+  "manifest_sha256": "1d6312603fd2f5f639608629b098bde600d071e479dabbf62559a95350173d27",
+  "threshold": 0.20999999999999996,
+  "recordings": 800,
+  "training_performed": false,
+  "validation_performed": false,
+  "threshold_tuning_performed": false,
+  "checkpoint_selection_performed": false,
+  "prediction_rule": "sigmoid(max window logit) > frozen threshold",
+  "limitations": [
+    "FSD50K sample excludes known ESC-50/UrbanSound8K IDs and uploaders; original SESA IDs unavailable.",
+    "Gunshot Triangulation contains 88 microphone clips of 22 firing events.",
+    "Plastic-bag microphone/event grouping is unavailable."
+  ]
+}

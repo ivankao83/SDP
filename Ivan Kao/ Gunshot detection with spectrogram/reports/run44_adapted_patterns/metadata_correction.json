@@ -1,0 +1,6 @@
+{
+  "old_checkpoint_sha256": "f358f6669b5d59630eb1dffd08a313841df87d93a0a8cfdba51b7e16f1998751",
+  "new_checkpoint_sha256": "8744f72ce6a88b685da2d4e983f5a128a21c46e657f43b6acd9c2e1bc3142bb2",
+  "weights_unchanged_sha256": "41afa3f58830d7f075d54130c75ee3e83f131679d51f27b2c71e4234ef5d7754",
+  "reason": "Replace inherited pretraining dataset names with actual adaptation training domains; retain old names separately."
+}

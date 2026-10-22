@@ -1,0 +1,79 @@
+{
+  "combined": {
+    "recordings": 450,
+    "accuracy": 0.5555555555555556,
+    "gunshot_recall": 0.7692307692307693,
+    "gunshot_precision": 0.3971119133574007,
+    "gunshot_f1": 0.5238095238095238,
+    "roc_auc": 0.6256463406300539,
+    "false_positive_rate": 0.5439739413680782,
+    "negative_rejection_rate": 0.4560260586319218,
+    "threshold": 0.20999999999999996,
+    "gunshots_detected": 110,
+    "gunshots_missed": 33,
+    "false_alarms": 167,
+    "correct_non_gunshots": 140
+  },
+  "by_dataset": {
+    "GreatestHits": {
+      "recordings": 129,
+      "accuracy": null,
+      "gunshot_recall": null,
+      "gunshot_precision": null,
+      "gunshot_f1": null,
+      "roc_auc": null,
+      "false_positive_rate": 0.5116279069767442,
+      "negative_rejection_rate": 0.4883720930232558,
+      "threshold": 0.20999999999999996,
+      "gunshots_detected": 0,
+      "gunshots_missed": 0,
+      "false_alarms": 66,
+      "correct_non_gunshots": 63
+    },
+    "HuntingGunshots": {
+      "recordings": 100,
+      "accuracy": null,
+      "gunshot_recall": 0.77,
+      "gunshot_precision": null,
+      "gunshot_f1": null,
+      "roc_auc": null,
+      "false_positive_rate": null,
+      "negative_rejection_rate": null,
+      "threshold": 0.20999999999999996,
+      "gunshots_detected": 77,
+      "gunshots_missed": 23,
+      "false_alarms": 0,
+      "correct_non_gunshots": 0
+    },
+    "SixKSFX": {
+      "recordings": 216,
+      "accuracy": 0.49537037037037035,
+      "gunshot_recall": 0.7804878048780488,
+      "gunshot_precision": 0.24242424242424243,
+      "gunshot_f1": 0.3699421965317919,
+      "roc_auc": 0.5667595818815331,
+      "false_positive_rate": 0.5714285714285714,
+      "negative_rejection_rate": 0.42857142857142855,
+      "threshold": 0.20999999999999996,
+      "gunshots_detected": 32,
+      "gunshots_missed": 9,
+      "false_alarms": 100,
+      "correct_non_gunshots": 75
+    },
+    "TUTRare2017": {
+      "recordings": 5,
+      "accuracy": 0.6,
+      "gunshot_recall": 0.5,
+      "gunshot_precision": 0.5,
+      "gunshot_f1": 0.5,
+      "roc_auc": 0.5,
+      "false_positive_rate": 0.3333333333333333,
+      "negative_rejection_rate": 0.6666666666666666,
+      "threshold": 0.20999999999999996,
+      "gunshots_detected": 1,
+      "gunshots_missed": 1,
+      "false_alarms": 1,
+      "correct_non_gunshots": 2
+    }
+  }
+}

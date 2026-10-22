@@ -1,0 +1,38 @@
+[
+  {
+    "anchor_weight": 0.0,
+    "threshold": 0.23999999999999996,
+    "validation_specificity": 0.9583333333333334,
+    "validation_recall": 0.9708029197080292
+  },
+  {
+    "anchor_weight": 0.1,
+    "threshold": 0.22999999999999995,
+    "validation_specificity": 0.9606481481481481,
+    "validation_recall": 0.9708029197080292
+  },
+  {
+    "anchor_weight": 0.25,
+    "threshold": 0.20499999999999996,
+    "validation_specificity": 0.9602623456790124,
+    "validation_recall": 0.9708029197080292
+  },
+  {
+    "anchor_weight": 0.5,
+    "threshold": 0.16999999999999998,
+    "validation_specificity": 0.9629629629629629,
+    "validation_recall": 0.9708029197080292
+  },
+  {
+    "anchor_weight": 0.75,
+    "threshold": 0.09499999999999999,
+    "validation_specificity": 0.9378858024691358,
+    "validation_recall": 0.9708029197080292
+  },
+  {
+    "anchor_weight": 1.0,
+    "threshold": 0.024999999999999998,
+    "validation_specificity": 0.8695987654320988,
+    "validation_recall": 0.9708029197080292
+  }
+]

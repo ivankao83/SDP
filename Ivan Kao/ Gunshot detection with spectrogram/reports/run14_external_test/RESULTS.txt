@@ -1,0 +1,14 @@
+Final run14 model, frozen threshold 0.21, same 800 reserved recordings.
+No training, validation, or threshold tuning on these data.
+
+Accuracy: 51.00% -> 73.38%
+Gunshot recall: 92.03% -> 85.51%
+Gunshot precision: 25.00% -> 37.94%
+Gunshot F1: 39.32% -> 52.56%
+ROC AUC: 0.8411 -> 0.8264
+Decision threshold: 0.21 -> 0.21
+Gunshots detected: 127 -> 118
+Gunshots missed: 11 -> 20
+False alarms: 381 -> 193
+Correct non-gunshots: 281 -> 469
+False-positive rate: 57.55% -> 29.15%

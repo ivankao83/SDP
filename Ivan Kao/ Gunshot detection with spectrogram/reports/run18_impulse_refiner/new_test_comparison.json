@@ -1,0 +1,32 @@
+{
+  "before": {
+    "recordings": 40,
+    "accuracy": null,
+    "gunshot_recall": null,
+    "gunshot_precision": null,
+    "gunshot_f1": null,
+    "roc_auc": null,
+    "false_positive_rate": 0.5,
+    "negative_rejection_rate": 0.5,
+    "threshold": 0.20999999999999996,
+    "gunshots_detected": 0,
+    "gunshots_missed": 0,
+    "false_alarms": 20,
+    "correct_non_gunshots": 20
+  },
+  "after": {
+    "recordings": 40,
+    "accuracy": null,
+    "gunshot_recall": null,
+    "gunshot_precision": null,
+    "gunshot_f1": null,
+    "roc_auc": null,
+    "false_positive_rate": 0.325,
+    "negative_rejection_rate": 0.675,
+    "threshold": 0.20999999999999996,
+    "gunshots_detected": 0,
+    "gunshots_missed": 0,
+    "false_alarms": 13,
+    "correct_non_gunshots": 27
+  }
+}

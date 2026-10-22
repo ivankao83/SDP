@@ -1,0 +1,23 @@
+Run 9: joint continued training on SESA, FSDD, EDGE and the compact UrbanSound8K subset.
+2742 train; 675 validation; same 804 held-out recordings evaluated before and after.
+Initialized from run8; adopted trained epoch 5. Previous checkpoint unchanged.
+Threshold selected using validation only. Test audio excluded from optimization and checkpoint selection.
+Existing held-out sets have been evaluated in earlier runs; they are not a fresh external test.
+
+Metric | Before | After
+accuracy | 0.9191542288557214 | 0.9763681592039801
+gunshot_recall | 0.6590909090909091 | 0.9621212121212122
+gunshot_precision | 0.8130841121495327 | 0.900709219858156
+gunshot_f1 | 0.7280334728033473 | 0.9304029304029304
+roc_auc | 0.9503630050505051 | 0.9951298701298701
+false_positive_rate | 0.02976190476190476 | 0.020833333333333332
+threshold | 0.30999999999999994 | 0.20999999999999996
+gunshots_detected | 87 | 127
+gunshots_missed | 45 | 5
+false_alarms | 20 | 14
+correct_non_gunshots | 652 | 658
+
+SESA false alarms increased 5 to 6; UrbanSound8K false alarms increased 2 to 3; FSDD false alarms fell 13 to 5.
+EDGE detections improved 48/89 to 86/89.
+New external reserves are test-only and have not been scored. See test_only_reserves.json.
+Audio processing: mono 24 kHz -> three-second windows -> 128-band log-mel spectrogram arrays -> CNN -> max window score per recording.

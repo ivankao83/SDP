@@ -1,0 +1,24 @@
+{
+  "previous_bundle": "runs/run22_realimpact/bundle.json",
+  "previous_refiner_sha256": "ec878f5af479ebf99e7003dbab6f4c4ca2146a19746769dabebf0c6d5f19de34",
+  "new_dataset": "MIMIIValve",
+  "dataset_recordings": 500,
+  "new_splits": {
+    "train": 200,
+    "val": 100,
+    "test": 200
+  },
+  "training_rows_including_prior_variants": 4297,
+  "validation_rows": 2173,
+  "threshold": 0.20999999999999996,
+  "cnn_updated": false,
+  "continued_refiner_training": true,
+  "maximum_added_trees": 120,
+  "selection": "Validation only; macro-domain quality with earlier-domain retention.",
+  "positive_validation_retention_tolerance": 0.0,
+  "negative_validation_retention_tolerance": 0.05,
+  "test_used_for_training_or_selection": false,
+  "reserved_used_for_development": false,
+  "seed": 1920,
+  "split_policy": "Entire industrial machine IDs separated across train, validation and test; only one 0dB SNR version used."
+}

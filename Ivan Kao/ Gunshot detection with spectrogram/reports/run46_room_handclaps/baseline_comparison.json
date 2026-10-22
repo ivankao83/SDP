@@ -1,0 +1,37 @@
+{
+  "comparison_run": "run41_balanced_validation",
+  "minimum_accuracy_gain": 0.05,
+  "before": {
+    "recordings": 800,
+    "accuracy": 0.8125,
+    "gunshot_recall": 0.8260869565217391,
+    "gunshot_precision": 0.475,
+    "gunshot_f1": 0.6031746031746031,
+    "roc_auc": 0.9060598099741669,
+    "false_positive_rate": 0.1903323262839879,
+    "negative_rejection_rate": 0.8096676737160121,
+    "threshold": 0.24499999999999997,
+    "gunshots_detected": 114,
+    "gunshots_missed": 24,
+    "false_alarms": 126,
+    "correct_non_gunshots": 536
+  },
+  "after": {
+    "recordings": 800,
+    "accuracy": 0.89125,
+    "gunshot_recall": 0.8043478260869565,
+    "gunshot_precision": 0.6491228070175439,
+    "gunshot_f1": 0.7184466019417476,
+    "roc_auc": 0.9444809317395683,
+    "false_positive_rate": 0.09063444108761329,
+    "negative_rejection_rate": 0.9093655589123867,
+    "threshold": 0.4599999999999999,
+    "gunshots_detected": 111,
+    "gunshots_missed": 27,
+    "false_alarms": 60,
+    "correct_non_gunshots": 602
+  },
+  "target_met": false,
+  "baseline_used_for_stopping_further_cycles": true,
+  "baseline_used_for_training_or_within_run_selection": false
+}

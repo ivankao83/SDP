@@ -1,0 +1,7746 @@
+[
+  {
+    "head": "hist15",
+    "stage": 5,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 5,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.22999999999999995
+  },
+  {
+    "head": "hist15",
+    "stage": 5,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.23999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 5,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.25999999999999995
+  },
+  {
+    "head": "hist15",
+    "stage": 5,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.29499999999999993
+  },
+  {
+    "head": "hist15",
+    "stage": 5,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.32499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 5,
+    "blend_weight": 0.75,
+    "retention_met": true,
+    "validation_specificity": 0.9260729390222944,
+    "threshold": 0.37999999999999995
+  },
+  {
+    "head": "hist15",
+    "stage": 5,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.57
+  },
+  {
+    "head": "hist15",
+    "stage": 10,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 10,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.22499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 10,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.23499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 10,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9340427441598864,
+    "threshold": 0.24999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 10,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9340427441598864,
+    "threshold": 0.27499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 10,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9295174739761307,
+    "threshold": 0.29499999999999993
+  },
+  {
+    "head": "hist15",
+    "stage": 10,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7149999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 10,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.6299999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 15,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 15,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.22499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 15,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.22999999999999995
+  },
+  {
+    "head": "hist15",
+    "stage": 15,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.23999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 15,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9314898763968364,
+    "threshold": 0.25499999999999995
+  },
+  {
+    "head": "hist15",
+    "stage": 15,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9292062662048294,
+    "threshold": 0.27499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 15,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7549999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 15,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.6799999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 20,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 20,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 20,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.22499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 20,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.22999999999999995
+  },
+  {
+    "head": "hist15",
+    "stage": 20,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9314898763968364,
+    "threshold": 0.23999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 20,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9248700581373477,
+    "threshold": 0.24999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 20,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 20,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7249999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 25,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 25,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 25,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 25,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.22499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 25,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9311786686255352,
+    "threshold": 0.22999999999999995
+  },
+  {
+    "head": "hist15",
+    "stage": 25,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9241007542243516,
+    "threshold": 0.23499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 25,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8149999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 25,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 30,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 30,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 30,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 30,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9340427441598864,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 30,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9322259456248313,
+    "threshold": 0.22499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 30,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9276674407560743,
+    "threshold": 0.22499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 30,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8399999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 30,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 35,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 35,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 35,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 35,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 35,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.93191473785353,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 35,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9213553771846679,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 35,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 35,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8199999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 40,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 40,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 40,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 40,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 40,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9322259456248313,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 40,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9254592389949488,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 40,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 40,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8449999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 45,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 45,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 45,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 45,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9340427441598864,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 45,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.931342988026443,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 45,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9270869754137301,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 45,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 45,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 50,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 50,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 50,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 50,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 50,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.931342988026443,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 50,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9252701768786749,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 50,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9952153360759046,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 50,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 55,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 55,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 55,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 55,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 55,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9328485787901968,
+    "threshold": 0.18999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 55,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9251145729930242,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 55,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.990220417166922,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 55,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 60,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 60,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 60,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 60,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9338871402742359,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 60,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9328485787901968,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 60,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9251145729930242,
+    "threshold": 0.16999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 60,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9870586765630387,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 60,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9866042511273256,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 65,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 65,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 65,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 65,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.18999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 65,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9330041826758475,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 65,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9227375770122846,
+    "threshold": 0.15999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 65,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9867561843069945,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 65,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9863017588712815,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 70,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 70,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 70,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 70,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.18999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 70,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9326929749045462,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 70,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9249931670607828,
+    "threshold": 0.15499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 70,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9852505935432407,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 70,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9846456090311522,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 75,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 75,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 75,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 75,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.18999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 75,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9325373710188956,
+    "threshold": 0.16999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 75,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9259267903746866,
+    "threshold": 0.15499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 75,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9852505935432407,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 75,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9838175341110875,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 80,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 80,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 80,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 80,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 80,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9328485787901968,
+    "threshold": 0.16999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 80,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9274408790309346,
+    "threshold": 0.15499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 80,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9852505935432407,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 80,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 85,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 85,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 85,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 85,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 85,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9328485787901968,
+    "threshold": 0.16499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 85,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9289464697946885,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 85,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9852505935432407,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 85,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 90,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 90,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 90,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 90,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 90,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9328485787901968,
+    "threshold": 0.16499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 90,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9253323949755929,
+    "threshold": 0.13999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 90,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9849481012871963,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 90,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 95,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 95,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 95,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 95,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 95,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9326929749045462,
+    "threshold": 0.15999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 95,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9223604562107697,
+    "threshold": 0.13499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 95,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9849481012871963,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 95,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 100,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 100,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 100,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 100,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 100,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9328485787901968,
+    "threshold": 0.15999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 100,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9231885311308343,
+    "threshold": 0.13499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 100,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9849481012871963,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 100,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 105,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 105,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 105,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 105,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9334535633022851,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 105,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9328485787901968,
+    "threshold": 0.15999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 105,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9253165374371908,
+    "threshold": 0.13499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 105,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 105,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 110,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 110,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 110,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 110,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 110,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9326929749045462,
+    "threshold": 0.15499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 110,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 110,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 110,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 115,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 115,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 115,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 115,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 115,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9328485787901968,
+    "threshold": 0.15499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 115,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 115,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 115,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 120,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 120,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 120,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 120,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 120,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9328485787901968,
+    "threshold": 0.15499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 120,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 120,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 120,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 125,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 125,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 125,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 125,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 125,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9328485787901968,
+    "threshold": 0.15499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 125,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8549999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 125,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 125,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 130,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 130,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 130,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 130,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 130,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.15499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 130,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8549999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 130,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 130,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9846456090311522,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 135,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 135,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 135,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 135,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 135,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9326929749045462,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 135,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8499999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 135,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 135,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9846456090311522,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 140,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 140,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 140,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 140,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 140,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9326929749045462,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 140,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8499999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 140,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 140,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9846456090311522,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 145,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 145,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 145,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 145,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 145,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9328485787901968,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 145,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8499999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 145,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 145,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9846456090311522,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 150,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 150,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 150,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 150,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 150,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 150,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8449999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 150,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 150,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9846456090311522,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 155,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 155,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 155,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 155,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 155,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 155,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 155,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 155,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 160,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 160,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 160,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 160,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 160,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9334535633022851,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 160,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 160,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 160,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 165,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 165,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 165,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 165,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 165,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9334535633022851,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 165,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 165,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 165,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8499999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 170,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 170,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 170,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 170,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 170,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9329954671605903,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 170,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 170,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 170,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8399999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 175,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 175,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 175,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 175,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 175,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9329954671605903,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 175,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 175,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 175,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8299999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 180,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 180,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 180,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 180,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 180,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9316796782358963,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 180,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 180,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 180,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 185,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 185,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 185,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 185,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 185,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9316796782358963,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 185,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 185,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 185,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 190,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 190,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 190,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 190,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 190,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.931835282121547,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 190,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 190,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 190,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 195,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 195,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 195,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 195,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 195,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.931835282121547,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 195,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 195,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 195,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 200,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 200,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 200,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 200,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 200,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9319908860071975,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 200,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 200,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8549999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 200,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 205,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 205,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 205,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 205,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 205,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9319908860071975,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 205,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 205,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8549999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 205,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 210,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 210,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 210,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 210,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 210,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9319908860071975,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 210,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 210,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8549999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 210,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 215,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 215,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 215,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 215,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 215,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9322933782632417,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 215,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 215,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8499999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 215,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 220,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 220,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 220,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 220,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 220,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 220,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9300719861681528,
+    "threshold": 0.11499999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 220,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8449999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 220,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 225,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 225,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 225,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 225,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 225,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 225,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9302275900538034,
+    "threshold": 0.11499999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 225,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 225,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 230,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 230,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 230,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 230,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 230,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 230,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9302275900538034,
+    "threshold": 0.11499999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 230,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 230,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 235,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 235,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 235,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 235,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 235,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 235,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9302275900538034,
+    "threshold": 0.11499999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 235,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 235,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 240,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 240,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 240,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 240,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 240,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 240,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9302275900538034,
+    "threshold": 0.11499999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 240,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 240,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 245,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 245,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 245,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 245,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 245,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 245,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9302275900538034,
+    "threshold": 0.11499999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 245,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 245,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 250,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 250,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 250,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 250,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 250,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 250,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9296138900264579,
+    "threshold": 0.10999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 250,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 250,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 255,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 255,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 255,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 255,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 255,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 255,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9297694939121086,
+    "threshold": 0.10999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 255,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 255,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 260,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 260,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 260,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 260,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 260,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 260,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9297694939121086,
+    "threshold": 0.10999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 260,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 260,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 265,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 265,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 265,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 265,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 265,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 265,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9297694939121086,
+    "threshold": 0.10999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 265,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 265,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 270,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 270,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 270,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 270,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 270,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 270,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9297694939121086,
+    "threshold": 0.10999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 270,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 270,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 275,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 275,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 275,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 275,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 275,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 275,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9297694939121086,
+    "threshold": 0.10999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 275,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 275,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 280,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 280,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 280,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 280,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 280,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 280,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9297694939121086,
+    "threshold": 0.10999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 280,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 280,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 285,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 285,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 285,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 285,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 285,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 285,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9297694939121086,
+    "threshold": 0.10999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 285,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 285,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 290,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 290,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 290,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 290,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 290,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 290,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9305194931968528,
+    "threshold": 0.10999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 290,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 290,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 295,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 295,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 295,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 295,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 295,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 295,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9305194931968528,
+    "threshold": 0.10999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 295,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 295,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 300,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist15",
+    "stage": 300,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist15",
+    "stage": 300,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 300,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist15",
+    "stage": 300,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist15",
+    "stage": 300,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9306750970825035,
+    "threshold": 0.10999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 300,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 300,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 5,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 5,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.22999999999999995
+  },
+  {
+    "head": "hist7",
+    "stage": 5,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.23999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 5,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.25999999999999995
+  },
+  {
+    "head": "hist7",
+    "stage": 5,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.29499999999999993
+  },
+  {
+    "head": "hist7",
+    "stage": 5,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9348033325576255,
+    "threshold": 0.32999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 5,
+    "blend_weight": 0.75,
+    "retention_met": true,
+    "validation_specificity": 0.9353978840381565,
+    "threshold": 0.38499999999999995
+  },
+  {
+    "head": "hist7",
+    "stage": 5,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.57
+  },
+  {
+    "head": "hist7",
+    "stage": 10,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 10,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.22499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 10,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.23499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 10,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.24999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 10,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.27499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 10,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9348033325576255,
+    "threshold": 0.30499999999999994
+  },
+  {
+    "head": "hist7",
+    "stage": 10,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7149999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 10,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.6299999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 15,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 15,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.22499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 15,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.22999999999999995
+  },
+  {
+    "head": "hist7",
+    "stage": 15,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9348033325576255,
+    "threshold": 0.24499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 15,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.25999999999999995
+  },
+  {
+    "head": "hist7",
+    "stage": 15,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9287307791952455,
+    "threshold": 0.27999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 15,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7549999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 15,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.6799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 20,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 20,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 20,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.22499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 20,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9341983480455371,
+    "threshold": 0.23499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 20,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9340427441598864,
+    "threshold": 0.24499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 20,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9251146131556491,
+    "threshold": 0.25999999999999995
+  },
+  {
+    "head": "hist7",
+    "stage": 20,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 20,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7199999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 25,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 25,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 25,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.22499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 25,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9341983480455371,
+    "threshold": 0.22999999999999995
+  },
+  {
+    "head": "hist7",
+    "stage": 25,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9340427441598864,
+    "threshold": 0.23499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 25,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9184058638307198,
+    "threshold": 0.24499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 25,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8149999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 25,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7599999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 30,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 30,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 30,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9340427441598864,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 30,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9325371533961326,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 30,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9325371533961326,
+    "threshold": 0.22499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 30,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 30,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8349999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 30,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 35,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 35,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 35,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 35,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9325371533961326,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 35,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9308810035560033,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 35,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 35,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 35,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8199999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 40,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 40,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 40,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 40,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9325371533961326,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 40,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9293754127922493,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 40,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9948196296060121,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 40,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 40,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8449999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 45,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 45,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 45,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 45,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 45,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9308810035560033,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 45,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9889046282422278,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 45,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 45,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 50,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 50,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 50,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 50,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9325371533961326,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 50,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9308810035560033,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 50,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9872484784020985,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 50,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9961354185307063,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 50,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 55,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 55,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 55,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 55,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9325371533961326,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 55,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9301449343280084,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 55,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 55,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9872484784020985,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 55,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 60,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 60,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 60,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 60,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 60,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.927936732566883,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 60,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 60,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 60,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9848296243638646,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 65,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 65,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 65,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 65,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.18999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 65,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.927936732566883,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 65,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 65,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 65,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9831734745237353,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 70,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 70,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 70,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 70,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.18999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 70,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9277811286812325,
+    "threshold": 0.16999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 70,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 70,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 70,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9810296106789766,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 75,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 75,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 75,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 75,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 75,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9294372785213618,
+    "threshold": 0.16999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 75,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 75,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 75,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9810296106789766,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 80,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 80,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 80,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 80,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 80,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9294372785213618,
+    "threshold": 0.16999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 80,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 80,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 80,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9810296106789766,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 85,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 85,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 85,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 85,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 85,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9294372785213618,
+    "threshold": 0.16499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 85,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 85,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 85,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9795574761715597,
+    "threshold": 0.8449999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 90,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 90,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 90,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 90,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 90,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9316454802824872,
+    "threshold": 0.16499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 90,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 90,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9821601778550855,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 90,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9795574761715597,
+    "threshold": 0.8549999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 95,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 95,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 95,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 95,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 95,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9294372785213618,
+    "threshold": 0.15999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 95,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 95,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9818576855990413,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 95,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9795574761715597,
+    "threshold": 0.8499999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 100,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 100,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 100,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 100,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 100,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9316454802824872,
+    "threshold": 0.15999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 100,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 100,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9821601778550855,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 100,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9795574761715597,
+    "threshold": 0.8449999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 105,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 105,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 105,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 105,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 105,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9314898763968364,
+    "threshold": 0.15999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 105,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 105,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9821601778550855,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 105,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9795574761715597,
+    "threshold": 0.8399999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 110,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 110,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 110,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 110,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 110,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9314898763968364,
+    "threshold": 0.15999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 110,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 110,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9821601778550855,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 110,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9795574761715597,
+    "threshold": 0.8349999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 115,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 115,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 115,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 115,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 115,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9314898763968364,
+    "threshold": 0.15999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 115,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 115,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9821601778550855,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 115,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9795574761715597,
+    "threshold": 0.8349999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 120,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 120,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 120,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 120,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 120,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9314898763968364,
+    "threshold": 0.15499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 120,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 120,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 120,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9795574761715597,
+    "threshold": 0.8399999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 125,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 125,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 125,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 125,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.18499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 125,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9305842732264415,
+    "threshold": 0.15499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 125,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 125,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 125,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9810296106789766,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 130,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 130,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 130,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 130,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9316454802824872,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 130,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9305842732264415,
+    "threshold": 0.15499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 130,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 130,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 130,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9810296106789766,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 135,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 135,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 135,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 135,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9316454802824872,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 135,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9307398771120923,
+    "threshold": 0.15499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 135,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 135,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 135,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9810296106789766,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 140,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 140,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 140,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 140,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9316454802824872,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 140,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9300184835864918,
+    "threshold": 0.15499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 140,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 140,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 140,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9810296106789766,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 145,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 145,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 145,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 145,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9316454802824872,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 145,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9292684843017476,
+    "threshold": 0.15499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 145,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 145,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 145,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9818576855990413,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 150,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 150,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 150,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 150,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 150,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9292684843017476,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 150,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 150,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 150,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9818576855990413,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 155,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 155,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 155,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 155,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 155,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9300184835864918,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 155,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 155,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 155,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9818576855990413,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 160,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 160,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 160,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 160,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 160,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9300184835864918,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 160,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 160,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 160,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9818576855990413,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 165,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 165,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 165,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 165,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.933151071046241,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 165,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9300184835864918,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 165,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 165,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 165,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9818576855990413,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 170,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 170,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 170,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 170,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 170,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9300184835864918,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 170,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 170,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 170,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 175,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 175,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 175,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 175,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 175,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9287026946617978,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 175,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 175,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 175,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 180,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 180,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 180,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 180,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 180,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9287026946617978,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 180,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 180,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 180,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 185,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 185,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 185,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 185,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 185,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9287026946617978,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 185,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 185,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 185,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 190,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 190,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 190,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 190,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 190,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9287026946617978,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 190,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 190,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 190,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 195,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 195,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 195,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 195,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 195,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9302082854255516,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 195,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 195,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 195,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.984835410870212,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 200,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 200,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 200,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 200,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 200,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9302082854255516,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 200,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 200,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 200,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.984835410870212,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 205,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 205,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 205,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 205,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9336091671879359,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 205,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9305107776815957,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 205,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 205,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 205,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.984835410870212,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 210,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 210,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 210,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 210,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9316454802824872,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 210,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.928547090776147,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist7",
+    "stage": 210,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 210,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 210,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.984835410870212,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 215,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 215,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 215,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 215,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 215,
+    "blend_weight": 0.35,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 215,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 215,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 215,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9851379031262562,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 220,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 220,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 220,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9337647710735864,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 220,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9318010841681377,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 220,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.928547090776147,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist7",
+    "stage": 220,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 220,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 220,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9851379031262562,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 225,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 225,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 225,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 225,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 225,
+    "blend_weight": 0.35,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 225,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8549999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 225,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 225,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9851379031262562,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 230,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 230,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 230,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 230,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 230,
+    "blend_weight": 0.35,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 230,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8549999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 230,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 230,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9851379031262562,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 235,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 235,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 235,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 235,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 235,
+    "blend_weight": 0.35,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 235,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8499999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 235,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 235,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9851379031262562,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 240,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 240,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 240,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 240,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 240,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9288582985474483,
+    "threshold": 0.145
+  },
+  {
+    "head": "hist7",
+    "stage": 240,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8499999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 240,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 240,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 245,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 245,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 245,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 245,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 245,
+    "blend_weight": 0.35,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 245,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8449999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 245,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 245,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 250,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 250,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 250,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 250,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 250,
+    "blend_weight": 0.35,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 250,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8449999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 250,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 250,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 255,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 255,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 255,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 255,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 255,
+    "blend_weight": 0.35,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 255,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8399999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 255,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 255,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 260,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 260,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 260,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 260,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 260,
+    "blend_weight": 0.35,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 260,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8349999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 260,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 260,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 265,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 265,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 265,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 265,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 265,
+    "blend_weight": 0.35,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 265,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8349999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 265,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8549999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 265,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 270,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 270,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 270,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 270,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 270,
+    "blend_weight": 0.35,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 270,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8299999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 270,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8549999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 270,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 275,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 275,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 275,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 275,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 275,
+    "blend_weight": 0.35,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 275,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8299999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 275,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8499999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 275,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 280,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 280,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 280,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 280,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 280,
+    "blend_weight": 0.35,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 280,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8249999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 280,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8499999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 280,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 285,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 285,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 285,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 285,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 285,
+    "blend_weight": 0.35,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 285,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8199999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 285,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8449999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 285,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 290,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 290,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 290,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 290,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 290,
+    "blend_weight": 0.35,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 290,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8199999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 290,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8449999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 290,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 295,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 295,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 295,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 295,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 295,
+    "blend_weight": 0.35,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 295,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8199999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 295,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8399999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 295,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 300,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "hist7",
+    "stage": 300,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.20499999999999996
+  },
+  {
+    "head": "hist7",
+    "stage": 300,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.19499999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 300,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9333066749318917,
+    "threshold": 0.175
+  },
+  {
+    "head": "hist7",
+    "stage": 300,
+    "blend_weight": 0.35,
+    "retention_met": false,
+    "validation_specificity": 0.9857428876383447,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 300,
+    "blend_weight": 0.5,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8149999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 300,
+    "blend_weight": 0.75,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8349999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 300,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "extra_trees",
+    "stage": 400,
+    "blend_weight": 0.02,
+    "retention_met": true,
+    "validation_specificity": 0.9345008403015813,
+    "threshold": 0.21499999999999997
+  },
+  {
+    "head": "extra_trees",
+    "stage": 400,
+    "blend_weight": 0.05,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.20999999999999996
+  },
+  {
+    "head": "extra_trees",
+    "stage": 400,
+    "blend_weight": 0.1,
+    "retention_met": true,
+    "validation_specificity": 0.9343452364159308,
+    "threshold": 0.19999999999999998
+  },
+  {
+    "head": "extra_trees",
+    "stage": 400,
+    "blend_weight": 0.2,
+    "retention_met": true,
+    "validation_specificity": 0.9341896325302801,
+    "threshold": 0.17999999999999997
+  },
+  {
+    "head": "extra_trees",
+    "stage": 400,
+    "blend_weight": 0.35,
+    "retention_met": true,
+    "validation_specificity": 0.9322593979325956,
+    "threshold": 0.14999999999999997
+  },
+  {
+    "head": "extra_trees",
+    "stage": 400,
+    "blend_weight": 0.5,
+    "retention_met": true,
+    "validation_specificity": 0.9325145038755533,
+    "threshold": 0.12499999999999999
+  },
+  {
+    "head": "extra_trees",
+    "stage": 400,
+    "blend_weight": 0.75,
+    "retention_met": true,
+    "validation_specificity": 0.919551947670592,
+    "threshold": 0.07999999999999999
+  },
+  {
+    "head": "extra_trees",
+    "stage": 400,
+    "blend_weight": 1.0,
+    "retention_met": false,
+    "validation_specificity": 0.9928231188504477,
+    "threshold": 0.8799999999999999
+  }
+]

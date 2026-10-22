@@ -1,0 +1,39 @@
+{
+  "run": "run21_vietnam",
+  "baseline_run": "run20_vocal_sound",
+  "before": {
+    "recordings": 800,
+    "accuracy": 0.79625,
+    "gunshot_recall": 0.8478260869565217,
+    "gunshot_precision": 0.4517374517374517,
+    "gunshot_f1": 0.5894206549118388,
+    "roc_auc": 0.8749945269057313,
+    "false_positive_rate": 0.21450151057401812,
+    "negative_rejection_rate": 0.7854984894259819,
+    "threshold": 0.20999999999999996,
+    "gunshots_detected": 117,
+    "gunshots_missed": 21,
+    "false_alarms": 142,
+    "correct_non_gunshots": 520
+  },
+  "after": {
+    "recordings": 800,
+    "accuracy": 0.79375,
+    "gunshot_recall": 0.8478260869565217,
+    "gunshot_precision": 0.4482758620689655,
+    "gunshot_f1": 0.5864661654135338,
+    "roc_auc": 0.8744034327247252,
+    "false_positive_rate": 0.2175226586102719,
+    "negative_rejection_rate": 0.7824773413897281,
+    "threshold": 0.20999999999999996,
+    "gunshots_detected": 117,
+    "gunshots_missed": 21,
+    "false_alarms": 144,
+    "correct_non_gunshots": 518
+  },
+  "target_met": false,
+  "target": "Accuracy strictly higher than Run20; recall no lower and false alarms fewer.",
+  "checkpoint_selected_before_baseline_evaluation": true,
+  "baseline_used_for_stopping_further_cycles": true,
+  "limitation": "Repeated baseline evaluations guide stopping and constitute adaptive benchmark reuse, not an unbiased unseen test estimate."
+}

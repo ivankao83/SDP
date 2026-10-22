@@ -1,0 +1,849 @@
+[
+  {
+    "head": "hist15",
+    "stage": 5,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.57
+  },
+  {
+    "head": "hist15",
+    "stage": 10,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.6299999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 15,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.6799999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 20,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7249999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 25,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 30,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 35,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8199999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 40,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8449999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 45,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 50,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 55,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 60,
+    "retention_met": false,
+    "validation_specificity": 0.9866042511273256,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 65,
+    "retention_met": false,
+    "validation_specificity": 0.9863017588712815,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 70,
+    "retention_met": false,
+    "validation_specificity": 0.9846456090311522,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 75,
+    "retention_met": false,
+    "validation_specificity": 0.9838175341110875,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 80,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 85,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 90,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 95,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 100,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 105,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 110,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 115,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 120,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 125,
+    "retention_met": false,
+    "validation_specificity": 0.9823453996036706,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 130,
+    "retention_met": false,
+    "validation_specificity": 0.9846456090311522,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 135,
+    "retention_met": false,
+    "validation_specificity": 0.9846456090311522,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 140,
+    "retention_met": false,
+    "validation_specificity": 0.9846456090311522,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 145,
+    "retention_met": false,
+    "validation_specificity": 0.9846456090311522,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 150,
+    "retention_met": false,
+    "validation_specificity": 0.9846456090311522,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 155,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 160,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 165,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8499999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 170,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8399999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 175,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8299999999999998
+  },
+  {
+    "head": "hist15",
+    "stage": 180,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 185,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 190,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 195,
+    "retention_met": false,
+    "validation_specificity": 0.9836323123625024,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 200,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 205,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 210,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 215,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 220,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 225,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 230,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 235,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 240,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 245,
+    "retention_met": false,
+    "validation_specificity": 0.9839348046185465,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 250,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 255,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 260,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 265,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 270,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 275,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 280,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 285,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 290,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 295,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist15",
+    "stage": 300,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 5,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.57
+  },
+  {
+    "head": "hist7",
+    "stage": 10,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.6299999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 15,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.6799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 20,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7199999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 25,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7599999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 30,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.7899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 35,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8199999999999998
+  },
+  {
+    "head": "hist7",
+    "stage": 40,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8449999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 45,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 50,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 55,
+    "retention_met": false,
+    "validation_specificity": 0.9999997702635801,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 60,
+    "retention_met": false,
+    "validation_specificity": 0.9848296243638646,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 65,
+    "retention_met": false,
+    "validation_specificity": 0.9831734745237353,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 70,
+    "retention_met": false,
+    "validation_specificity": 0.9810296106789766,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 75,
+    "retention_met": false,
+    "validation_specificity": 0.9810296106789766,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 80,
+    "retention_met": false,
+    "validation_specificity": 0.9810296106789766,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 85,
+    "retention_met": false,
+    "validation_specificity": 0.9795574761715597,
+    "threshold": 0.8449999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 90,
+    "retention_met": false,
+    "validation_specificity": 0.9795574761715597,
+    "threshold": 0.8549999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 95,
+    "retention_met": false,
+    "validation_specificity": 0.9795574761715597,
+    "threshold": 0.8499999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 100,
+    "retention_met": false,
+    "validation_specificity": 0.9795574761715597,
+    "threshold": 0.8449999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 105,
+    "retention_met": false,
+    "validation_specificity": 0.9795574761715597,
+    "threshold": 0.8399999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 110,
+    "retention_met": false,
+    "validation_specificity": 0.9795574761715597,
+    "threshold": 0.8349999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 115,
+    "retention_met": false,
+    "validation_specificity": 0.9795574761715597,
+    "threshold": 0.8349999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 120,
+    "retention_met": false,
+    "validation_specificity": 0.9795574761715597,
+    "threshold": 0.8399999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 125,
+    "retention_met": false,
+    "validation_specificity": 0.9810296106789766,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 130,
+    "retention_met": false,
+    "validation_specificity": 0.9810296106789766,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 135,
+    "retention_met": false,
+    "validation_specificity": 0.9810296106789766,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 140,
+    "retention_met": false,
+    "validation_specificity": 0.9810296106789766,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 145,
+    "retention_met": false,
+    "validation_specificity": 0.9818576855990413,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 150,
+    "retention_met": false,
+    "validation_specificity": 0.9818576855990413,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 155,
+    "retention_met": false,
+    "validation_specificity": 0.9818576855990413,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 160,
+    "retention_met": false,
+    "validation_specificity": 0.9818576855990413,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 165,
+    "retention_met": false,
+    "validation_specificity": 0.9818576855990413,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 170,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 175,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 180,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 185,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 190,
+    "retention_met": false,
+    "validation_specificity": 0.9833298201064582,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 195,
+    "retention_met": false,
+    "validation_specificity": 0.984835410870212,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 200,
+    "retention_met": false,
+    "validation_specificity": 0.984835410870212,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 205,
+    "retention_met": false,
+    "validation_specificity": 0.984835410870212,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 210,
+    "retention_met": false,
+    "validation_specificity": 0.984835410870212,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 215,
+    "retention_met": false,
+    "validation_specificity": 0.9851379031262562,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 220,
+    "retention_met": false,
+    "validation_specificity": 0.9851379031262562,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 225,
+    "retention_met": false,
+    "validation_specificity": 0.9851379031262562,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 230,
+    "retention_met": false,
+    "validation_specificity": 0.9851379031262562,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 235,
+    "retention_met": false,
+    "validation_specificity": 0.9851379031262562,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 240,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8999999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 245,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 250,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8949999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 255,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 260,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8899999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 265,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8849999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 270,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 275,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8799999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 280,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 285,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8749999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 290,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8699999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 295,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8649999999999999
+  },
+  {
+    "head": "hist7",
+    "stage": 300,
+    "retention_met": false,
+    "validation_specificity": 0.9854403953823005,
+    "threshold": 0.8599999999999999
+  },
+  {
+    "head": "extra_trees",
+    "stage": 400,
+    "retention_met": false,
+    "validation_specificity": 0.9928231188504477,
+    "threshold": 0.8799999999999999
+  }
+]

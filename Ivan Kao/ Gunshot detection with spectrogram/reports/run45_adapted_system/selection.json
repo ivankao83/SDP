@@ -1,0 +1,8 @@
+{
+  "head": "hist15",
+  "stage": 15,
+  "blend_weight": 0.75,
+  "retention_met": true,
+  "validation_specificity": 0.9474355216233673,
+  "threshold": 0.3549999999999999
+}

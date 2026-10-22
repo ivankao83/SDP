@@ -1,0 +1,36 @@
+{
+  "cycles": [
+    [
+      "run10_audiomnist",
+      "AudioMNIST"
+    ],
+    [
+      "run11_office",
+      "DCASEOffice"
+    ],
+    [
+      "run12_demand",
+      "DEMAND"
+    ],
+    [
+      "run13_forest",
+      "TropicalForest"
+    ],
+    [
+      "run14_m16_firecrackers",
+      "M16Firecrackers"
+    ]
+  ],
+  "initial_checkpoint": "runs/run9_joint_four/best.pt",
+  "fixed_threshold": 0.20999999999999996,
+  "retention_floors": {
+    "EDGE:1": 0.825,
+    "FSDD:0": 0.95,
+    "SESA:0": 0.9249999999999999,
+    "SESA:1": 0.95,
+    "UrbanSound8K:0": 0.9045454545454545,
+    "UrbanSound8K:1": 0.95
+  },
+  "reserved_final_evaluation_only": true,
+  "baseline": "reports/run9_external_test/results.json"
+}

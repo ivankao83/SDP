@@ -1,0 +1,35 @@
+{
+  "control": "reports/run14_external_test/results.json",
+  "practical_target": "at least +5pp accuracy with no recall reduction and fewer false alarms",
+  "trials": [
+    {
+      "run": "run15_joint_impulses",
+      "benchmark_accuracy": 0.2975,
+      "benchmark_recall": 0.8768115942028986,
+      "false_alarms": 545,
+      "target_met": false
+    },
+    {
+      "run": "run16_real_impulses",
+      "benchmark_accuracy": 0.22125,
+      "benchmark_recall": 0.7101449275362319,
+      "false_alarms": 583,
+      "target_met": false
+    },
+    {
+      "run": "run17_bag_confounds",
+      "benchmark_accuracy": 0.56,
+      "benchmark_recall": 0.9057971014492754,
+      "false_alarms": 339,
+      "target_met": false
+    },
+    {
+      "run": "run18_impulse_refiner",
+      "benchmark_accuracy": 0.79,
+      "benchmark_recall": 0.8623188405797102,
+      "false_alarms": 149,
+      "target_met": true
+    }
+  ],
+  "selected_model_bundle": "runs/run18_impulse_refiner/bundle.json"
+}

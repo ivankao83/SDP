@@ -1,0 +1,11 @@
+{
+  "test_only_reserves_excluded": true,
+  "new_speakers_separated": true,
+  "new_test_clips_never_trained_or_validated": true,
+  "cnn_hash_verified": true,
+  "original_380_refiner_trees_unchanged": true,
+  "new_trained_trees": 100,
+  "saved_baseline_metrics_independently_recomputed": true,
+  "unchanged_800_clip_baseline": true,
+  "live_predictions_match_saved_results_for_each_baseline_dataset": true
+}

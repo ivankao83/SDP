@@ -1,0 +1,289 @@
+{
+  "protocol": {
+    "previous_bundle": "runs/run38_independent_pops/bundle.json",
+    "training_performed": false,
+    "cnn_updated": false,
+    "refiner_updated": true,
+    "refiner_weights_retrained": false,
+    "minimum_validation_gunshot_recall": 0.96,
+    "selection": "Largest threshold on the fixed .005 grid meeting prescribed pooled validation recall. Optional anchor blend selected by maximum validation negative rejection.",
+    "anchor_bundle": "runs/run20_vocal_sound/bundle.json",
+    "anchor_weight_candidates": [
+      0.0,
+      0.1,
+      0.25,
+      0.5,
+      0.75,
+      1.0
+    ],
+    "validation_rows": 2729,
+    "validation_gunshots": 137,
+    "reserved_used_for_training_validation_or_threshold_selection": false,
+    "baseline_used_for_adaptive_stopping_and_strategy_feedback": true
+  },
+  "before": {
+    "recordings": 1140,
+    "accuracy": 0.9385964912280702,
+    "gunshot_recall": 0.8,
+    "gunshot_precision": 0.10526315789473684,
+    "gunshot_f1": 0.18604651162790697,
+    "roc_auc": 0.9667256637168141,
+    "false_positive_rate": 0.06017699115044248,
+    "negative_rejection_rate": 0.9398230088495575,
+    "threshold": 0.39999999999999997,
+    "gunshots_detected": 8,
+    "gunshots_missed": 2,
+    "false_alarms": 68,
+    "correct_non_gunshots": 1062
+  },
+  "after": {
+    "recordings": 1140,
+    "accuracy": 0.8508771929824561,
+    "gunshot_recall": 0.9,
+    "gunshot_precision": 0.05056179775280899,
+    "gunshot_f1": 0.09574468085106383,
+    "roc_auc": 0.9667256637168141,
+    "false_positive_rate": 0.1495575221238938,
+    "negative_rejection_rate": 0.8504424778761062,
+    "threshold": 0.24499999999999997,
+    "gunshots_detected": 9,
+    "gunshots_missed": 1,
+    "false_alarms": 169,
+    "correct_non_gunshots": 961
+  },
+  "by_dataset": {
+    "IndependentBalloonCollection": {
+      "before": {
+        "recordings": 12,
+        "accuracy": null,
+        "gunshot_recall": null,
+        "gunshot_precision": null,
+        "gunshot_f1": null,
+        "roc_auc": null,
+        "false_positive_rate": 0.16666666666666666,
+        "negative_rejection_rate": 0.8333333333333334,
+        "threshold": 0.39999999999999997,
+        "gunshots_detected": 0,
+        "gunshots_missed": 0,
+        "false_alarms": 2,
+        "correct_non_gunshots": 10
+      },
+      "after": {
+        "recordings": 12,
+        "accuracy": null,
+        "gunshot_recall": null,
+        "gunshot_precision": null,
+        "gunshot_f1": null,
+        "roc_auc": null,
+        "false_positive_rate": 0.16666666666666666,
+        "negative_rejection_rate": 0.8333333333333334,
+        "threshold": 0.24499999999999997,
+        "gunshots_detected": 0,
+        "gunshots_missed": 0,
+        "false_alarms": 2,
+        "correct_non_gunshots": 10
+      }
+    },
+    "IndependentClaps": {
+      "before": {
+        "recordings": 32,
+        "accuracy": null,
+        "gunshot_recall": null,
+        "gunshot_precision": null,
+        "gunshot_f1": null,
+        "roc_auc": null,
+        "false_positive_rate": 0.25,
+        "negative_rejection_rate": 0.75,
+        "threshold": 0.39999999999999997,
+        "gunshots_detected": 0,
+        "gunshots_missed": 0,
+        "false_alarms": 8,
+        "correct_non_gunshots": 24
+      },
+      "after": {
+        "recordings": 32,
+        "accuracy": null,
+        "gunshot_recall": null,
+        "gunshot_precision": null,
+        "gunshot_f1": null,
+        "roc_auc": null,
+        "false_positive_rate": 0.34375,
+        "negative_rejection_rate": 0.65625,
+        "threshold": 0.24499999999999997,
+        "gunshots_detected": 0,
+        "gunshots_missed": 0,
+        "false_alarms": 11,
+        "correct_non_gunshots": 21
+      }
+    },
+    "IndependentPackaging": {
+      "before": {
+        "recordings": 56,
+        "accuracy": null,
+        "gunshot_recall": null,
+        "gunshot_precision": null,
+        "gunshot_f1": null,
+        "roc_auc": null,
+        "false_positive_rate": 0.05357142857142857,
+        "negative_rejection_rate": 0.9464285714285714,
+        "threshold": 0.39999999999999997,
+        "gunshots_detected": 0,
+        "gunshots_missed": 0,
+        "false_alarms": 3,
+        "correct_non_gunshots": 53
+      },
+      "after": {
+        "recordings": 56,
+        "accuracy": null,
+        "gunshot_recall": null,
+        "gunshot_precision": null,
+        "gunshot_f1": null,
+        "roc_auc": null,
+        "false_positive_rate": 0.07142857142857142,
+        "negative_rejection_rate": 0.9285714285714286,
+        "threshold": 0.24499999999999997,
+        "gunshots_detected": 0,
+        "gunshots_missed": 0,
+        "false_alarms": 4,
+        "correct_non_gunshots": 52
+      }
+    },
+    "MIMIIValve": {
+      "before": {
+        "recordings": 200,
+        "accuracy": null,
+        "gunshot_recall": null,
+        "gunshot_precision": null,
+        "gunshot_f1": null,
+        "roc_auc": null,
+        "false_positive_rate": 0.02,
+        "negative_rejection_rate": 0.98,
+        "threshold": 0.39999999999999997,
+        "gunshots_detected": 0,
+        "gunshots_missed": 0,
+        "false_alarms": 4,
+        "correct_non_gunshots": 196
+      },
+      "after": {
+        "recordings": 200,
+        "accuracy": null,
+        "gunshot_recall": null,
+        "gunshot_precision": null,
+        "gunshot_f1": null,
+        "roc_auc": null,
+        "false_positive_rate": 0.055,
+        "negative_rejection_rate": 0.945,
+        "threshold": 0.24499999999999997,
+        "gunshots_detected": 0,
+        "gunshots_missed": 0,
+        "false_alarms": 11,
+        "correct_non_gunshots": 189
+      }
+    },
+    "ReaLISEDIndoor": {
+      "before": {
+        "recordings": 420,
+        "accuracy": null,
+        "gunshot_recall": null,
+        "gunshot_precision": null,
+        "gunshot_f1": null,
+        "roc_auc": null,
+        "false_positive_rate": 0.04523809523809524,
+        "negative_rejection_rate": 0.9547619047619048,
+        "threshold": 0.39999999999999997,
+        "gunshots_detected": 0,
+        "gunshots_missed": 0,
+        "false_alarms": 19,
+        "correct_non_gunshots": 401
+      },
+      "after": {
+        "recordings": 420,
+        "accuracy": null,
+        "gunshot_recall": null,
+        "gunshot_precision": null,
+        "gunshot_f1": null,
+        "roc_auc": null,
+        "false_positive_rate": 0.10476190476190476,
+        "negative_rejection_rate": 0.8952380952380953,
+        "threshold": 0.24499999999999997,
+        "gunshots_detected": 0,
+        "gunshots_missed": 0,
+        "false_alarms": 44,
+        "correct_non_gunshots": 376
+      }
+    },
+    "RealImpactMeasured": {
+      "before": {
+        "recordings": 200,
+        "accuracy": null,
+        "gunshot_recall": null,
+        "gunshot_precision": null,
+        "gunshot_f1": null,
+        "roc_auc": null,
+        "false_positive_rate": 0.0,
+        "negative_rejection_rate": 1.0,
+        "threshold": 0.39999999999999997,
+        "gunshots_detected": 0,
+        "gunshots_missed": 0,
+        "false_alarms": 0,
+        "correct_non_gunshots": 200
+      },
+      "after": {
+        "recordings": 200,
+        "accuracy": null,
+        "gunshot_recall": null,
+        "gunshot_precision": null,
+        "gunshot_f1": null,
+        "roc_auc": null,
+        "false_positive_rate": 0.0,
+        "negative_rejection_rate": 1.0,
+        "threshold": 0.24499999999999997,
+        "gunshots_detected": 0,
+        "gunshots_missed": 0,
+        "false_alarms": 0,
+        "correct_non_gunshots": 200
+      }
+    },
+    "VietnamForest": {
+      "before": {
+        "recordings": 220,
+        "accuracy": 0.8454545454545455,
+        "gunshot_recall": 0.8,
+        "gunshot_precision": 0.2,
+        "gunshot_f1": 0.32,
+        "roc_auc": 0.9085714285714286,
+        "false_positive_rate": 0.1523809523809524,
+        "negative_rejection_rate": 0.8476190476190476,
+        "threshold": 0.39999999999999997,
+        "gunshots_detected": 8,
+        "gunshots_missed": 2,
+        "false_alarms": 32,
+        "correct_non_gunshots": 178
+      },
+      "after": {
+        "recordings": 220,
+        "accuracy": 0.5545454545454546,
+        "gunshot_recall": 0.9,
+        "gunshot_precision": 0.08490566037735849,
+        "gunshot_f1": 0.15517241379310345,
+        "roc_auc": 0.9085714285714286,
+        "false_positive_rate": 0.46190476190476193,
+        "negative_rejection_rate": 0.5380952380952381,
+        "threshold": 0.24499999999999997,
+        "gunshots_detected": 9,
+        "gunshots_missed": 1,
+        "false_alarms": 97,
+        "correct_non_gunshots": 113
+      }
+    }
+  },
+  "selection": {
+    "threshold": 0.24499999999999997,
+    "minimum_validation_recall": 0.96,
+    "validation_recall": 0.9635036496350365,
+    "anchor_weight": 0.25,
+    "added_trees": 0,
+    "selected_before_reserved_prediction": true
+  },
+  "bundle": "runs/run41_balanced_validation/bundle.json"
+}

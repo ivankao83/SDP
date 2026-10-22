@@ -1,0 +1,9 @@
+{
+  "epoch": 2,
+  "validation_macro_log_loss": 0.24735757929325128,
+  "checkpoint": "runs/run44_adapted_patterns/best.pt",
+  "sha256": "8744f72ce6a88b685da2d4e983f5a128a21c46e657f43b6acd9c2e1bc3142bb2",
+  "previous_system_unchanged": true,
+  "selected_before_baseline_prediction": true,
+  "checkpoint_metadata_corrected_before_combined_training": true
+}

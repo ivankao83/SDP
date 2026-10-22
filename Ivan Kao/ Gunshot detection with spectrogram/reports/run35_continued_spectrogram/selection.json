@@ -1,0 +1,10 @@
+{
+  "added_trees": 0,
+  "threshold": 0.21999999999999997,
+  "quality": [
+    true,
+    0.9345010981292754
+  ],
+  "validation_selection": null,
+  "selected_before_reserved_prediction": true
+}

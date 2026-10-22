@@ -1,0 +1,67 @@
+Frozen external evaluation: current run9 model, 800 reserved test recordings.
+No training, validation, checkpoint selection, or threshold tuning performed.
+Threshold: 0.21. Checkpoint unchanged.
+
+Combined metrics:
+recordings: 800
+accuracy: 0.51
+gunshot_recall: 0.9202898550724637
+gunshot_precision: 0.25
+gunshot_f1: 0.3931888544891641
+roc_auc: 0.8411489119488594
+false_positive_rate: 0.5755287009063444
+negative_rejection_rate: 0.4244712990936556
+threshold: 0.20999999999999996
+gunshots_detected: 127
+gunshots_missed: 11
+false_alarms: 381
+correct_non_gunshots: 281
+
+FSD50K_mixed
+recordings: 100
+accuracy: 0.7
+gunshot_recall: 0.78
+gunshot_precision: 0.6724137931034483
+gunshot_f1: 0.7222222222222222
+roc_auc: 0.7652
+false_positive_rate: 0.38
+negative_rejection_rate: 0.62
+threshold: 0.20999999999999996
+gunshots_detected: 39
+gunshots_missed: 11
+false_alarms: 19
+correct_non_gunshots: 31
+
+GunshotTriangulation
+recordings: 88
+accuracy: None
+gunshot_recall: 1.0
+gunshot_precision: None
+gunshot_f1: None
+roc_auc: None
+false_positive_rate: None
+negative_rejection_rate: None
+threshold: 0.20999999999999996
+gunshots_detected: 88
+gunshots_missed: 0
+false_alarms: 0
+correct_non_gunshots: 0
+
+PlasticBagPop
+recordings: 612
+accuracy: None
+gunshot_recall: None
+gunshot_precision: None
+gunshot_f1: None
+roc_auc: None
+false_positive_rate: 0.5915032679738562
+negative_rejection_rate: 0.4084967320261438
+threshold: 0.20999999999999996
+gunshots_detected: 0
+gunshots_missed: 0
+false_alarms: 362
+correct_non_gunshots: 250
+
+These datasets remain test-only. Do not train or select thresholds on these results.
+Gunshot Triangulation: 88 microphone clips represent 22 firing events.
+No exact decoded matches with prior development data; complete shared-source independence from SESA cannot be established.

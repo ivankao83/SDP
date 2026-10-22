@@ -1,0 +1,7 @@
+{
+  "feature_dimensions": 475,
+  "new_cnn_pattern_dimensions": 64,
+  "frozen_prior_production_predictions_preserved": true,
+  "cnn_checkpoint_sha256": "d772ef4312dd46566a7b29155d11881ac1c1a7b3efc82aa6267e0daf5815985b",
+  "reserved_recordings_used": false
+}

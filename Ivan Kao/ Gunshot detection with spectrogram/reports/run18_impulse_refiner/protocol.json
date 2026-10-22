@@ -1,0 +1,31 @@
+{
+  "base_checkpoint": "runs/run14_m16_firecrackers/best.pt",
+  "base_sha256": "d772ef4312dd46566a7b29155d11881ac1c1a7b3efc82aa6267e0daf5815985b",
+  "threshold": 0.20999999999999996,
+  "cnn_weights_updated": false,
+  "refiner_trained": true,
+  "reserved_data_used_for_development": false,
+  "features": "Frozen CNN probability plus peak-normalized waveform energy, duration, spectral and zero-crossing features at sub-frame resolution.",
+  "training_recordings_including_variants": 2089,
+  "validation_recordings": 1475,
+  "new_heldout_test_recordings": 40,
+  "selection": "Validation macro-domain quality with original positive recall retention; no benchmark predictions used.",
+  "candidates": [
+    [
+      2,
+      0.05,
+      250
+    ],
+    [
+      3,
+      0.03,
+      400
+    ],
+    [
+      2,
+      0.025,
+      600
+    ]
+  ],
+  "seed": 1818
+}

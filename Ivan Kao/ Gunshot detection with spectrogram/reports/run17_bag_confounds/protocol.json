@@ -1,0 +1,43 @@
+{
+  "previous_checkpoint": "runs/run14_m16_firecrackers/best.pt",
+  "previous_sha256": "d772ef4312dd46566a7b29155d11881ac1c1a7b3efc82aa6267e0daf5815985b",
+  "fixed_threshold": 0.20999999999999996,
+  "training_recordings": 2089,
+  "new_training_recordings": 226,
+  "validation_recordings": 1475,
+  "test_recordings": 40,
+  "datasets": [
+    "CMURealSounds",
+    "LabImpulses",
+    "IndependentBalloonPops",
+    "IndependentBagPops"
+  ],
+  "mode": "one joint test-then-train cycle",
+  "seed": 1515,
+  "learning_rate": 5e-05,
+  "epochs_max": 24,
+  "selection": "50% old-domain validation correct rate, 25% new positive recall, 25% new negative rejection; prefer prior positive retention within 10pp",
+  "retention_floors": {
+    "EDGE:1": 0.7333333333333334,
+    "M16Firecrackers:1": 0.9,
+    "SESA:1": 0.775,
+    "TropicalForest:1": 0.725,
+    "UrbanSound8K:1": 0.8090909090909091
+  },
+  "threshold_tuning_performed": false,
+  "reserved_data_used_for_training_validation_or_selection": false,
+  "baseline_comparison": "reports/run14_external_test/results.json",
+  "success_target": {
+    "accuracy_gain_at_least": 0.05,
+    "gunshot_recall_at_least": 0.855072463768116
+  },
+  "label_limitations": "Impact collection retains author event labels; original SESA IDs unavailable. New balloon source rooms are separated but one uploader spans splits.",
+  "training_only_waveform_augmentations": 550,
+  "loss_weighting": {
+    "global_binary_class_mass": 0.5,
+    "new_mass_within_each_class_when_present": 0.6666666666666666,
+    "bag_domain_weight": 4.0,
+    "balloon_domain_weight": 2.0,
+    "other_domain_weight": 1.0
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "previous_bundle": "runs/run46_room_handclaps/bundle.json",
+  "training_performed": false,
+  "cnn_updated": false,
+  "refiner_updated": false,
+  "refiner_weights_retrained": false,
+  "minimum_validation_gunshot_recall": 0.97,
+  "selection": "Largest threshold on the fixed .005 grid meeting prescribed pooled validation recall. Optional anchor blend selected by maximum validation negative rejection.",
+  "anchor_bundle": null,
+  "anchor_weight_candidates": null,
+  "validation_rows": 2872,
+  "validation_gunshots": 192,
+  "reserved_used_for_training_validation_or_threshold_selection": false,
+  "baseline_used_for_adaptive_stopping_and_strategy_feedback": true
+}

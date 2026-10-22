@@ -1,0 +1,79 @@
+{
+  "combined": {
+    "recordings": 111,
+    "accuracy": 0.7027027027027027,
+    "gunshot_recall": 0.3,
+    "gunshot_precision": 0.10344827586206896,
+    "gunshot_f1": 0.15384615384615385,
+    "roc_auc": 0.5198019801980198,
+    "false_positive_rate": 0.25742574257425743,
+    "negative_rejection_rate": 0.7425742574257426,
+    "threshold": 0.20999999999999996,
+    "gunshots_detected": 3,
+    "gunshots_missed": 7,
+    "false_alarms": 26,
+    "correct_non_gunshots": 75
+  },
+  "by_dataset": {
+    "CMURealSounds": {
+      "recordings": 36,
+      "accuracy": null,
+      "gunshot_recall": null,
+      "gunshot_precision": null,
+      "gunshot_f1": null,
+      "roc_auc": null,
+      "false_positive_rate": 0.5277777777777778,
+      "negative_rejection_rate": 0.4722222222222222,
+      "threshold": 0.20999999999999996,
+      "gunshots_detected": 0,
+      "gunshots_missed": 0,
+      "false_alarms": 19,
+      "correct_non_gunshots": 17
+    },
+    "IndependentBalloonPops": {
+      "recordings": 1,
+      "accuracy": null,
+      "gunshot_recall": null,
+      "gunshot_precision": null,
+      "gunshot_f1": null,
+      "roc_auc": null,
+      "false_positive_rate": 0.0,
+      "negative_rejection_rate": 1.0,
+      "threshold": 0.20999999999999996,
+      "gunshots_detected": 0,
+      "gunshots_missed": 0,
+      "false_alarms": 0,
+      "correct_non_gunshots": 1
+    },
+    "LabImpulses": {
+      "recordings": 2,
+      "accuracy": null,
+      "gunshot_recall": null,
+      "gunshot_precision": null,
+      "gunshot_f1": null,
+      "roc_auc": null,
+      "false_positive_rate": 0.0,
+      "negative_rejection_rate": 1.0,
+      "threshold": 0.20999999999999996,
+      "gunshots_detected": 0,
+      "gunshots_missed": 0,
+      "false_alarms": 0,
+      "correct_non_gunshots": 2
+    },
+    "RealImpactVariations": {
+      "recordings": 72,
+      "accuracy": 0.8055555555555556,
+      "gunshot_recall": 0.3,
+      "gunshot_precision": 0.3,
+      "gunshot_f1": 0.3,
+      "roc_auc": 0.6193548387096774,
+      "false_positive_rate": 0.11290322580645161,
+      "negative_rejection_rate": 0.8870967741935484,
+      "threshold": 0.20999999999999996,
+      "gunshots_detected": 3,
+      "gunshots_missed": 7,
+      "false_alarms": 7,
+      "correct_non_gunshots": 55
+    }
+  }
+}

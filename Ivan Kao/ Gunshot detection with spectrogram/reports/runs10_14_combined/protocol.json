@@ -1,0 +1,15 @@
+{
+  "checkpoint": "runs/run14_m16_firecrackers/best.pt",
+  "checkpoint_sha256": "d772ef4312dd46566a7b29155d11881ac1c1a7b3efc82aa6267e0daf5815985b",
+  "threshold": 0.20999999999999996,
+  "training_performed": false,
+  "threshold_tuning_performed": false,
+  "recordings_by_dataset": {
+    "AudioMNIST": 500,
+    "DCASEOffice": 54,
+    "DEMAND": 60,
+    "TropicalForest": 120,
+    "M16Firecrackers": 72
+  },
+  "description": "One final Run14 model evaluated across all five source-separated held-out sets from runs10-14; excludes the three external reserved corpora."
+}

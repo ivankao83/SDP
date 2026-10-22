@@ -1,0 +1,41 @@
+dataset,path,true_label,probability,predicted_label
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Crumple newspaper__crumplingnewspaper-4.wav,0,0.623577356338501,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Crumple newspaper__crumplingnewspaper-5.wav,0,0.3390086591243744,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Crumple newspaper__crumplingnewspaper-1.wav,0,0.7343230247497559,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Crumple newspaper__crumplingnewspaper-2.wav,0,0.3791848123073578,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Crumple newspaper__crumplingnewspaper-3.wav,0,0.6686537265777588,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Crumple paper__paperCrumple.wav,0,0.11210515350103378,0
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Crunch corn starch__cornstarchcrunch.wav,0,0.10930967330932617,0
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Marble on Sheet Metal__marblebouncesheetmetal.wav,0,0.48172932863235474,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Knocking over Can on Table__knockingoversodacan2.wav,0,0.9583585262298584,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Knocking over Can on Table__knockingoversodacan3.wav,0,0.5226661562919617,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Knocking over Can on Table__knockingoversodacan1.wav,0,0.8419676423072815,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Knocking over Can on Table__knockingoversodacan4.wav,0,0.674250602722168,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Knocking over Can on Table__knockingoversodacan5.wav,0,0.02871018834412098,0
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Knocking Over Plastic Cup__knockingoverplasticcup-5.wav,0,0.002223437651991844,0
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Knocking Over Plastic Cup__knockingoverplasticcup-4.wav,0,0.026434464380145073,0
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Knocking Over Plastic Cup__knockingoverplasticcup-3.wav,0,0.04175393283367157,0
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Knocking Over Plastic Cup__knockingoverplasticcup-2.wav,0,0.0025671706534922123,0
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Knocking Over Plastic Cup__knockingoverplasticcup-1.wav,0,0.0009243538370355964,0
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Marble on Tile__bouncingmarbleonceramic-2.wav,0,0.21269190311431885,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Marble on Tile__bouncingmarbleonceramic-3.wav,0,0.1961757391691208,0
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Marble on Tile__bouncingmarbleonceramic-1.wav,0,0.10900166630744934,0
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Marble on Tile__bouncingmarbleonceramic-4.wav,0,0.028048887848854065,0
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Wood Hammer on Mirror__woodenhammer_mirror.wav,0,0.0361594632267952,0
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Pen on Plastic Bottle__hittingpolandspringbottlewithpen-5.wav,0,0.08929544687271118,0
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Pen on Plastic Bottle__hittingpolandspringbottlewithpen-4.wav,0,0.7048948407173157,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Pen on Plastic Bottle__hittingpolandspringbottlewithpen-6.wav,0,0.05859138444066048,0
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Pen on Plastic Bottle__hittingpolandspringbottlewithpen-3.wav,0,0.8274240493774414,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Pen on Plastic Bottle__hittingpolandspringbottlewithpen-2.wav,0,0.06054303050041199,0
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Pen on Plastic Bottle__hittingpolandspringbottlewithpen-1.wav,0,0.5745704174041748,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Wood Ball on Plywood__woodenballbounceplywood.wav,0,0.4864068329334259,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Sack of Pebbles (moisture absorber bag)__moisturebagimpact-1.wav,0,0.038008514791727066,0
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Sack of Pebbles (moisture absorber bag)__moisturebagimpact-2.wav,0,0.4018899202346802,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Sack of Pebbles (moisture absorber bag)__moisturebagimpact-3.wav,0,0.02579520270228386,0
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Sack of Pebbles (moisture absorber bag)__moisturebagimpact-4.wav,0,0.4031246602535248,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Sack of Pebbles (moisture absorber bag)__moisturebagimpact-5.wav,0,0.9650516510009766,1
+CMURealSounds,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/CMURealSounds/Wood Ball on Tile__woodenballbounceceramictile.wav,0,0.26981204748153687,1
+LabImpulses,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/LabImpulses/S6_glass put on table_24bit.wav,0,0.010285364463925362,0
+LabImpulses,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/LabImpulses/S3_slamming of a book_24bit.wav,0,0.023827742785215378,0
+IndependentBalloonPops,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run16_real_impulses/IndependentBalloonPops/866967.mp3,0,0.0192561075091362,0
+IndependentBagPops,/Users/ivankao/SDP/Ivan Kao/ Gunshot detection with spectrogram/dataset/run17_bag_confounds/IndependentBagPops/267966.mp3,0,0.9420872926712036,1

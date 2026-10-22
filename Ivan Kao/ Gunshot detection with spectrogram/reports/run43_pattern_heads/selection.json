@@ -1,0 +1,8 @@
+{
+  "head": "hist7",
+  "stage": 110,
+  "blend_weight": 1.0,
+  "retention_met": true,
+  "validation_specificity": 0.9470424293671281,
+  "threshold": 0.20499999999999996
+}

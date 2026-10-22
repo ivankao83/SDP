@@ -1,0 +1,80 @@
+{
+  "checkpoint": "runs/run17_bag_confounds/best.pt",
+  "checkpoint_sha256": "8d665e3ce3a9966adc8708fe5c26e19a404f1ab0ab4c9b5e9a37a2d4decff3b4",
+  "manifest_sha256": "1d6312603fd2f5f639608629b098bde600d071e479dabbf62559a95350173d27",
+  "threshold": 0.20999999999999996,
+  "recordings": 800,
+  "training_performed": false,
+  "validation_performed": false,
+  "threshold_tuning_performed": false,
+  "checkpoint_selection_performed": false,
+  "prediction_rule": "sigmoid(max window logit) > frozen threshold",
+  "limitations": [
+    "FSD50K sample excludes known ESC-50/UrbanSound8K IDs and uploaders; original SESA IDs unavailable.",
+    "Gunshot Triangulation contains 88 microphone clips of 22 firing events.",
+    "Plastic-bag microphone/event grouping is unavailable."
+  ],
+  "checkpoint_unchanged": true,
+  "combined": {
+    "recordings": 800,
+    "accuracy": 0.56,
+    "gunshot_recall": 0.9057971014492754,
+    "gunshot_precision": 0.26939655172413796,
+    "gunshot_f1": 0.4152823920265781,
+    "roc_auc": 0.8026511668636981,
+    "false_positive_rate": 0.5120845921450151,
+    "negative_rejection_rate": 0.4879154078549849,
+    "threshold": 0.20999999999999996,
+    "gunshots_detected": 125,
+    "gunshots_missed": 13,
+    "false_alarms": 339,
+    "correct_non_gunshots": 323
+  },
+  "by_dataset": {
+    "FSD50K_mixed": {
+      "recordings": 100,
+      "accuracy": 0.69,
+      "gunshot_recall": 0.9,
+      "gunshot_precision": 0.6338028169014085,
+      "gunshot_f1": 0.743801652892562,
+      "roc_auc": 0.8328,
+      "false_positive_rate": 0.52,
+      "negative_rejection_rate": 0.48,
+      "threshold": 0.20999999999999996,
+      "gunshots_detected": 45,
+      "gunshots_missed": 5,
+      "false_alarms": 26,
+      "correct_non_gunshots": 24
+    },
+    "GunshotTriangulation": {
+      "recordings": 88,
+      "accuracy": null,
+      "gunshot_recall": 0.9090909090909091,
+      "gunshot_precision": null,
+      "gunshot_f1": null,
+      "roc_auc": null,
+      "false_positive_rate": null,
+      "negative_rejection_rate": null,
+      "threshold": 0.20999999999999996,
+      "gunshots_detected": 80,
+      "gunshots_missed": 8,
+      "false_alarms": 0,
+      "correct_non_gunshots": 0
+    },
+    "PlasticBagPop": {
+      "recordings": 612,
+      "accuracy": null,
+      "gunshot_recall": null,
+      "gunshot_precision": null,
+      "gunshot_f1": null,
+      "roc_auc": null,
+      "false_positive_rate": 0.511437908496732,
+      "negative_rejection_rate": 0.48856209150326796,
+      "threshold": 0.20999999999999996,
+      "gunshots_detected": 0,
+      "gunshots_missed": 0,
+      "false_alarms": 313,
+      "correct_non_gunshots": 299
+    }
+  }
+}
