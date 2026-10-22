@@ -8,6 +8,8 @@ https://github.com/ShotSpotter/research.accuracy-of-gunshot-location (test only)
 
 https://zenodo.org/records/7004819 (train & test)
 
+https://www.kaggle.com/datasets/emrahaydemr/gunshot-audio-dataset (train & test)
+
 Negative: 
 
 https://github.com/karolpiczak/ESC-50 (train & test)
@@ -20,6 +22,14 @@ https://dcase.community/challenge2016/task-sound-event-detection-in-synthetic-au
 
 https://zenodo.org/records/1227121 (train & test)
 
+https://github.com/samuel-clarke/RealImpact (train & test)
+
+https://zenodo.org/records/3384388 (train & test)
+
+https://zenodo.org/records/6488321 (train & test)
+
+https://github.com/Akinesia112/ClapRIR (train & test)
+
 Mixed:
 
 https://github.com/kaen2891/military_audio_dataset (train & test)
@@ -31,6 +41,12 @@ https://zenodo.org/records/3519845 (train & test)
 https://data.mendeley.com/datasets/x48cwz364j/3 (train & test)
 
 https://data.mendeley.com/datasets/kbgw323248/1 (train & test)
+
+https://zenodo.org/records/13893977 (train & test)
+
+https://github.com/gpinyero/EUSIPCO2023 (train & test)
+
+
 
 Baseline Datasets:
 
